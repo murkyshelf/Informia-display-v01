@@ -1,0 +1,9 @@
+Manufacturer=Micron
+PartNumber=MT41K128M16JT-125:K
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=96
+Version=6.1
+Released=2017-10-12 12:57:12
+Downloaded=2026-06-30 14:05:01
+3D=Y

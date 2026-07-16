@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MT41K128M16JT-125_K
+D SDRAM - DDR3L Memory IC 2Gb (128M x 16) Parallel 800MHz 13.75ns 96-FBGA (8x14)
+K
+F https://media-www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/2gb_1_35v_ddr3l.pdf?rev=4f46f8613ff2467c9f3428e9043d0098
+$ENDCMP
+#
+#End Doc Library

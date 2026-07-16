@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BGA285C50P18X18_1000X1000X130"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BGA285C50P18X18_1000X1000X130")
+        (spec "default")
+    )
+)

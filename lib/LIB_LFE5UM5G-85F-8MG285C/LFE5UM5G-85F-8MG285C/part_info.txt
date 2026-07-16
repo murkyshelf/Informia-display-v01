@@ -1,0 +1,9 @@
+Manufacturer=Lattice Semiconductor
+PartNumber=LFE5UM5G-85F-8MG285C
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=285
+Version=2.1
+Released=2021-02-04 11:02:27
+Downloaded=2026-06-04 19:49:45
+3D=Y

@@ -1,0 +1,1135 @@
+PAD,Pin_Function,Bank,Dual_Function,Differential,High_Speed,DQS_Group,Package_Ball,Bank_Group,Recommended_Usage
+0,VCCIO0,0,-,-,-,-,D12,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO0,0,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO0,0,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO0,0,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO0,0,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO0,0,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+583,PT65B,0,1,Comp_OF_PT65A,-,-,C10,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+585,PT63B,0,1,Comp_OF_PT63A,-,-,A10,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+586,PT65A,0,1,True_OF_PT65B,-,-,B10,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+588,PT63A,0,1,True_OF_PT63B,-,-,A11,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+589,PT60B,0,1,Comp_OF_PT60A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+591,PT58B,0,1,Comp_OF_PT58A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+592,PT60A,0,1,True_OF_PT60B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+594,PT58A,0,1,True_OF_PT58B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+595,PT56B,0,1,Comp_OF_PT56A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+597,PT54B,0,1,Comp_OF_PT54A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+598,PT56A,0,1,True_OF_PT56B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+600,PT54A,0,1,True_OF_PT54B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+601,PT51B,0,-,Comp_OF_PT51A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+603,PT49B,0,0,Comp_OF_PT49A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+604,PT51A,0,-,True_OF_PT51B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+606,PT49A,0,0,True_OF_PT49B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+607,PT47B,0,-,Comp_OF_PT47A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+609,PT45B,0,0,Comp_OF_PT45A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+610,PT47A,0,-,True_OF_PT47B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+612,PT45A,0,0,True_OF_PT45B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+613,PT42B,0,-,Comp_OF_PT42A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+615,PT40B,0,0,Comp_OF_PT40A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+616,PT42A,0,-,True_OF_PT42B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+618,PT40A,0,0,True_OF_PT40B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+619,PT38B,0,-,Comp_OF_PT38A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+621,PT36B,0,0,Comp_OF_PT36A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+622,PT38A,0,-,True_OF_PT38B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+624,PT36A,0,0,True_OF_PT36B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+625,PT33B,0,-,Comp_OF_PT33A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+627,PT31B,0,0,Comp_OF_PT31A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+628,PT33A,0,-,True_OF_PT33B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+630,PT31A,0,0,True_OF_PT31B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+631,PT29B,0,-,Comp_OF_PT29A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+633,PT27B,0,0,Comp_OF_PT27A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+634,PT29A,0,-,True_OF_PT29B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+636,PT27A,0,0,True_OF_PT27B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+637,PT24B,0,-,Comp_OF_PT24A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+639,PT22B,0,0,Comp_OF_PT22A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+640,PT24A,0,-,True_OF_PT24B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+642,PT22A,0,0,True_OF_PT22B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+643,PT20B,0,-,Comp_OF_PT20A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+645,PT18B,0,0,Comp_OF_PT18A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+646,PT20A,0,-,True_OF_PT20B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+648,PT18A,0,0,True_OF_PT18B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+649,PT15B,0,-,Comp_OF_PT15A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+651,PT13B,0,0,Comp_OF_PT13A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+652,PT15A,0,-,True_OF_PT15B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+654,PT13A,0,0,True_OF_PT13B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+655,PT11B,0,-,Comp_OF_PT11A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+657,PT9B,0,0,Comp_OF_PT9A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+658,PT11A,0,-,True_OF_PT11B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+660,PT9A,0,0,True_OF_PT9B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+661,PT6B,0,-,Comp_OF_PT6A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+663,PT4B,0,0,Comp_OF_PT4A,-,-,C11,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+664,PT6A,0,-,True_OF_PT6B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+666,PT4A,0,0,True_OF_PT4B,-,-,B11,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO1,1,-,-,-,-,D7,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO1,1,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO1,1,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO1,1,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO1,1,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO1,1,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+509,PT121B,1,-,Comp_OF_PT121A,-,-,C8,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+511,PT119B,1,2,Comp_OF_PT119A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+512,PT121A,1,-,True_OF_PT121B,-,-,B8,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+514,PT119A,1,2,True_OF_PT119B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+515,PT116B,1,-,Comp_OF_PT116A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+517,PT114B,1,-,Comp_OF_PT114A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+518,PT116A,1,2,True_OF_PT116B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+520,PT114A,1,-,True_OF_PT114B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+521,PT112B,1,-,Comp_OF_PT112A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+523,PT110B,1,-,Comp_OF_PT110A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+524,PT112A,1,-,True_OF_PT112B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+526,PT110A,1,-,True_OF_PT110B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+527,PT107B,1,-,Comp_OF_PT107A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+529,PT105B,1,1,Comp_OF_PT105A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+530,PT107A,1,-,True_OF_PT107B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+532,PT105A,1,1,True_OF_PT105B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+533,PT103B,1,-,Comp_OF_PT103A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+535,PT101B,1,1,Comp_OF_PT101A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+536,PT103A,1,-,True_OF_PT103B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+538,PT101A,1,1,True_OF_PT101B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+539,PT98B,1,-,Comp_OF_PT98A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+541,PT96B,1,1,Comp_OF_PT96A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+542,PT98A,1,-,True_OF_PT98B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+544,PT96A,1,1,True_OF_PT96B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+545,PT94B,1,-,Comp_OF_PT94A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+547,PT92B,1,1,Comp_OF_PT92A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+548,PT94A,1,-,True_OF_PT94B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+550,PT92A,1,1,True_OF_PT92B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+551,PT89B,1,-,Comp_OF_PT89A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+553,PT87B,1,1,Comp_OF_PT87A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+554,PT89A,1,-,True_OF_PT89B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+556,PT87A,1,1,True_OF_PT87B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+557,PT85B,1,-,Comp_OF_PT85A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+559,PT83B,1,1,Comp_OF_PT83A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+560,PT85A,1,-,True_OF_PT85B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+562,PT83A,1,1,True_OF_PT83B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+563,PT80B,1,-,Comp_OF_PT80A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+565,PT78B,1,1,Comp_OF_PT78A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+566,PT80A,1,-,True_OF_PT80B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+568,PT78A,1,1,True_OF_PT78B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+569,PT76B,1,-,Comp_OF_PT76A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+571,PT74B,1,1,Comp_OF_PT74A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+572,PT76A,1,-,True_OF_PT76B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+574,PT74A,1,1,True_OF_PT74B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+575,PT71B,1,-,Comp_OF_PT71A,-,-,A8,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+577,PT69B,1,1,Comp_OF_PT69A,-,-,C9,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+578,PT71A,1,-,True_OF_PT71B,-,-,A9,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+580,PT69A,1,1,True_OF_PT69B,-,-,B9,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO4,4,1,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO4,4,1,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO4,4,1,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO4,4,1,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO4,4,2,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+290,PB96A,4,51,True_OF_PB96B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+291,PB98A,4,-,True_OF_PB98B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+293,PB96B,4,51,Comp_OF_PB96A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+294,PB98B,4,-,Comp_OF_PB98A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+296,PB101A,4,-,True_OF_PB101B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+297,PB103A,4,-,True_OF_PB103B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+299,PB101B,4,-,Comp_OF_PB101A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+300,PB103B,4,-,Comp_OF_PB103A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+302,PB105A,4,-,True_OF_PB105B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+303,PB107A,4,51,True_OF_PB107B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+305,PB105B,4,51,Comp_OF_PB105A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+306,PB107B,4,-,Comp_OF_PB107A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+308,PB110A,4,-,True_OF_PB110B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+309,PB112A,4,-,True_OF_PB112B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+311,PB110B,4,4,Comp_OF_PB110A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+312,PB112B,4,-,Comp_OF_PB112A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+314,PB114A,4,4,True_OF_PB114B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+315,PB116A,4,-,True_OF_PB116B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+317,PB114B,4,4,Comp_OF_PB114A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+318,PB116B,4,-,Comp_OF_PB116A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+320,PB119A,4,4,True_OF_PB119B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+321,PB121A,4,-,True_OF_PB121B,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+323,PB119B,4,4,Comp_OF_PB119A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+324,PB121B,4,-,Comp_OF_PB121A,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO8,8,-,-,-,-,N13,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO8,8,-,-,-,-,P14,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO8,8,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO8,8,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO8,8,-,-,-,-,-,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+180,PB4A,8,-,True_OF_PB4B,-,-,N15,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+181,PB6A,8,6,True_OF_PB6B,-,-,N17,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+183,PB4B,8,-,Comp_OF_PB4A,-,-,N16,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+184,PB6B,8,6,Comp_OF_PB6A,-,-,M18,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+186,PB9A,8,-,True_OF_PB9B,-,-,N18,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+187,PB11A,8,6,True_OF_PB11B,-,-,T18,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+189,PB9B,8,-,Comp_OF_PB9A,-,-,R18,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+190,PB11B,8,6,Comp_OF_PB11A,-,-,U18,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+192,PB13A,8,6,True_OF_PB13B,-,-,R17,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+193,PB15A,8,6,True_OF_PB15B,-,-,U17,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+195,PB13B,8,-,Comp_OF_PB13A,-,-,T17,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+196,PB15B,8,-,Comp_OF_PB15A,-,-,V17,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+198,PB18A,8,-,-,-,-,R16,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+199,INITN,8,-,-,-,-,V16,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+201,CCLK,8,8,-,-,-,U16,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+202,PROGRAMN,8,-,-,-,-,T15,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+204,DONE,8,8,-,-,-,U15,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+205,CFG_1,8,-,-,-,-,T14,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+207,CFG_2,8,8,-,-,-,V15,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+208,CFG_0,8,-,-,-,-,U14,General Purpose IO Banks,GPIO / FMC / SPI / UART / Control
+0,VCCIO2,2,-,-,-,-,G5,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO2,2,-,-,-,-,H5,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO2,2,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO2,2,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO2,2,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO2,2,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO2,2,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO2,2,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+428,PR44D,2,-,Comp_OF_PR44C,-,RDQ41,D1,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+430,PR44B,2,3,Comp_OF_PR44A,TRUE,RDQ41,B1,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+431,PR44C,2,-,True_OF_PR44D,-,RDQ41,C1,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+433,PR44A,2,3,True_OF_PR44B,TRUE,RDQ41,D2,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+434,PR41D,2,-,Comp_OF_PR41C,-,RDQ41,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+436,PR41B,2,3,Comp_OF_PR41A,TRUE,RDQSN41,B2,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+437,PR41C,2,-,True_OF_PR41D,-,RDQ41,A2,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+439,PR41A,2,3,True_OF_PR41B,TRUE,RDQS41,A3,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+440,PR38D,2,-,Comp_OF_PR38C,-,RDQ41,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+442,PR38B,2,3,Comp_OF_PR38A,TRUE,RDQ41,C2,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+443,PR38C,2,-,True_OF_PR38D,-,RDQ41,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+445,PR38A,2,3,True_OF_PR38B,TRUE,RDQ41,D3,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+446,PR35D,2,-,Comp_OF_PR35C,-,RDQ41,C3,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+448,PR35B,2,2,Comp_OF_PR35A,TRUE,RDQ41,C4,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+449,PR35C,2,-,True_OF_PR35D,-,RDQ41,B4,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+451,PR35A,2,2,True_OF_PR35B,TRUE,RDQ41,D4,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+452,PR32D,2,-,Comp_OF_PR32C,-,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+454,PR32B,2,2,Comp_OF_PR32A,TRUE,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+455,PR32C,2,-,True_OF_PR32D,-,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+457,PR32A,2,2,True_OF_PR32B,TRUE,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+458,PR29D,2,-,Comp_OF_PR29C,-,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+460,PR29B,2,2,Comp_OF_PR29A,TRUE,RDQSN29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+461,PR29C,2,-,True_OF_PR29D,-,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+463,PR29A,2,2,True_OF_PR29B,TRUE,RDQS29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+464,PR26D,2,-,Comp_OF_PR26C,-,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+466,PR26B,2,2,Comp_OF_PR26A,TRUE,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+467,PR26C,2,-,True_OF_PR26D,-,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+469,PR26A,2,2,True_OF_PR26B,TRUE,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+470,PR23D,2,-,Comp_OF_PR23C,-,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+472,PR23B,2,2,Comp_OF_PR23A,TRUE,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+473,PR23C,2,-,True_OF_PR23D,-,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+475,PR23A,2,2,True_OF_PR23B,TRUE,RDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+476,PR20D,2,-,Comp_OF_PR20C,-,RDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+478,PR20B,2,2,Comp_OF_PR20A,TRUE,RDQ17,A4,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+479,PR20C,2,-,True_OF_PR20D,-,RDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+481,PR20A,2,2,True_OF_PR20B,TRUE,RDQ17,A6,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+482,PR17D,2,-,Comp_OF_PR17C,-,RDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+484,PR17B,2,2,Comp_OF_PR17A,TRUE,RDQSN17,A7,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+485,PR17C,2,-,True_OF_PR17D,-,RDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+487,PR17A,2,2,True_OF_PR17B,TRUE,RDQS17,B6,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+488,PR14D,2,-,Comp_OF_PR14C,-,RDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+490,PR14B,2,2,Comp_OF_PR14A,TRUE,RDQ17,C6,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+491,PR14C,2,-,True_OF_PR14D,-,RDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+493,PR14A,2,2,True_OF_PR14B,TRUE,RDQ17,D6,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+494,PR11D,2,-,Comp_OF_PR11C,-,RDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+496,PR11C,2,2,True_OF_PR11D,-,RDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+498,PR11B,2,2,Comp_OF_PR11A,TRUE,RDQ17,B7,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+499,PR11A,2,2,True_OF_PR11B,TRUE,RDQ17,C7,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO3,3,0,-,-,-,M5,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO3,3,0,-,-,-,N5,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO3,3,0,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO3,3,0,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO3,3,0,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO3,3,0,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO3,3,1,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO3,3,1,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+332,PR92D,3,4,Comp_OF_PR92C,-,RDQ89,N1,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+333,PR92C,3,-,True_OF_PR92D,-,RDQ89,M1,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+335,PR92B,3,4,Comp_OF_PR92A,TRUE,RDQ89,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+337,PR92A,3,4,True_OF_PR92B,TRUE,RDQ89,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+338,PR89D,3,4,Comp_OF_PR89C,-,RDQ89,N2,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+340,PR89B,3,4,Comp_OF_PR89A,TRUE,RDQSN89,L1,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+341,PR89C,3,4,True_OF_PR89D,-,RDQ89,M2,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+343,PR89A,3,4,True_OF_PR89B,TRUE,RDQS89,K2,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+344,PR86D,3,4,Comp_OF_PR86C,-,RDQ89,K1,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+346,PR86B,3,-,Comp_OF_PR86A,TRUE,RDQ89,L3,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+347,PR86C,3,-,True_OF_PR86D,-,RDQ89,K3,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+349,PR86A,3,-,True_OF_PR86B,TRUE,RDQ89,M3,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+350,PR83D,3,-,Comp_OF_PR83C,-,RDQ89,N3,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+352,PR83B,3,3,Comp_OF_PR83A,TRUE,RDQ89,L4,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+353,PR83C,3,3,True_OF_PR83D,-,RDQ89,N4,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+355,PR83A,3,3,True_OF_PR83B,TRUE,RDQ89,K4,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+356,PR80D,3,-,Comp_OF_PR80C,-,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+358,PR80B,3,3,Comp_OF_PR80A,TRUE,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+359,PR80C,3,-,True_OF_PR80D,-,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+361,PR80A,3,3,True_OF_PR80B,TRUE,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+362,PR77D,3,-,Comp_OF_PR77C,-,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+364,PR77B,3,3,Comp_OF_PR77A,TRUE,RDQSN77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+365,PR77C,3,-,True_OF_PR77D,-,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+367,PR77A,3,3,True_OF_PR77B,TRUE,RDQS77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+368,PR74D,3,-,Comp_OF_PR74C,-,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+370,PR74B,3,3,Comp_OF_PR74A,TRUE,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+371,PR74C,3,-,True_OF_PR74D,-,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+373,PR74A,3,3,True_OF_PR74B,TRUE,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+374,PR71D,3,-,Comp_OF_PR71C,-,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+376,PR71B,3,3,Comp_OF_PR71A,TRUE,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+377,PR71C,3,-,True_OF_PR71D,-,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+379,PR71A,3,3,True_OF_PR71B,TRUE,RDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+380,PR68D,3,-,Comp_OF_PR68C,-,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+382,PR68B,3,3,Comp_OF_PR68A,TRUE,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+383,PR68C,3,-,True_OF_PR68D,-,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+385,PR68A,3,3,True_OF_PR68B,TRUE,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+386,PR65D,3,-,Comp_OF_PR65C,-,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+388,PR65B,3,3,Comp_OF_PR65A,TRUE,RDQSN65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+389,PR65C,3,-,True_OF_PR65D,-,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+391,PR65A,3,3,True_OF_PR65B,TRUE,RDQS65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+392,PR62D,3,-,Comp_OF_PR62C,-,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+394,PR62B,3,3,Comp_OF_PR62A,TRUE,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+395,PR62C,3,-,True_OF_PR62D,-,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+397,PR62A,3,3,True_OF_PR62B,TRUE,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+398,PR59D,3,-,Comp_OF_PR59C,-,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+400,PR59B,3,3,Comp_OF_PR59A,TRUE,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+401,PR59C,3,-,True_OF_PR59D,-,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+403,PR59A,3,3,True_OF_PR59B,TRUE,RDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+404,PR56D,3,-,Comp_OF_PR56C,-,RDQ53,H1,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+406,PR56B,3,3,Comp_OF_PR56A,TRUE,RDQ53,J1,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+407,PR56C,3,-,True_OF_PR56D,-,RDQ53,F1,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+409,PR56A,3,3,True_OF_PR56B,TRUE,RDQ53,J2,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+410,PR53D,3,-,Comp_OF_PR53C,-,RDQ53,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+412,PR53B,3,3,Comp_OF_PR53A,TRUE,RDQSN53,G1,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+413,PR53C,3,-,True_OF_PR53D,-,RDQ53,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+415,PR53A,3,3,True_OF_PR53B,TRUE,RDQS53,F2,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+416,PR50D,3,-,Comp_OF_PR50C,-,RDQ53,H2,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+418,PR50B,3,3,Comp_OF_PR50A,TRUE,RDQ53,G3,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+419,PR50C,3,-,True_OF_PR50D,-,RDQ53,J3,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+421,PR50A,3,3,True_OF_PR50B,TRUE,RDQ53,H3,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+422,PR47D,3,-,Comp_OF_PR47C,-,RDQ53,F3,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+424,PR47B,3,3,Comp_OF_PR47A,TRUE,RDQ53,G4,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+425,PR47C,3,-,True_OF_PR47D,-,RDQ53,F4,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+427,PR47A,3,3,True_OF_PR47B,TRUE,RDQ53,H4,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO6,6,-,-,-,-,M14,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO6,6,-,-,-,-,N14,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO6,6,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO6,6,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO6,6,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO6,6,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO6,6,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO6,6,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+78,PL47A,6,-,True_OF_PL47B,TRUE,LDQ53,D17,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+80,PL47C,6,7,True_OF_PL47D,-,LDQ53,D18,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+81,PL47B,6,-,Comp_OF_PL47A,TRUE,LDQ53,C18,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+83,PL47D,6,7,Comp_OF_PL47C,-,LDQ53,F18,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+84,PL50A,6,-,True_OF_PL50B,TRUE,LDQ53,F17,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+86,PL50C,6,7,True_OF_PL50D,-,LDQ53,F15,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+87,PL50B,6,-,Comp_OF_PL50A,TRUE,LDQ53,F16,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+89,PL50D,6,7,Comp_OF_PL50C,-,LDQ53,G16,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+90,PL53A,6,-,True_OF_PL53B,TRUE,LDQS53,G18,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+92,PL53C,6,7,True_OF_PL53D,-,LDQ53,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+93,PL53B,6,-,Comp_OF_PL53A,TRUE,LDQSN53,H17,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+95,PL53D,6,7,Comp_OF_PL53C,-,LDQ53,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+96,PL56A,6,-,True_OF_PL56B,TRUE,LDQ53,G15,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+98,PL56C,6,6,True_OF_PL56D,-,LDQ53,H16,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+99,PL56B,6,-,Comp_OF_PL56A,TRUE,LDQ53,H15,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+101,PL56D,6,6,Comp_OF_PL56C,-,LDQ53,J16,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+102,PL59A,6,-,True_OF_PL59B,TRUE,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+104,PL59C,6,6,True_OF_PL59D,-,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+105,PL59B,6,-,Comp_OF_PL59A,TRUE,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+107,PL59D,6,6,Comp_OF_PL59C,-,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+108,PL62A,6,-,True_OF_PL62B,TRUE,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+110,PL62C,6,6,True_OF_PL62D,-,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+111,PL62B,6,-,Comp_OF_PL62A,TRUE,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+113,PL62D,6,6,Comp_OF_PL62C,-,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+114,PL65A,6,-,True_OF_PL65B,TRUE,LDQS65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+116,PL65C,6,6,True_OF_PL65D,-,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+117,PL65B,6,-,Comp_OF_PL65A,TRUE,LDQSN65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+119,PL65D,6,6,Comp_OF_PL65C,-,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+120,PL68A,6,-,True_OF_PL68B,TRUE,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+122,PL68C,6,6,True_OF_PL68D,-,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+123,PL68B,6,-,Comp_OF_PL68A,TRUE,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+125,PL68D,6,6,Comp_OF_PL68C,-,LDQ65,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+126,PL71A,6,-,True_OF_PL71B,TRUE,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+128,PL71C,6,6,True_OF_PL71D,-,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+129,PL71B,6,-,Comp_OF_PL71A,TRUE,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+131,PL71D,6,6,Comp_OF_PL71C,-,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+132,PL74A,6,-,True_OF_PL74B,TRUE,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+134,PL74C,6,6,True_OF_PL74D,-,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+135,PL74B,6,-,Comp_OF_PL74A,TRUE,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+137,PL74D,6,6,Comp_OF_PL74C,-,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+138,PL77A,6,-,True_OF_PL77B,TRUE,LDQS77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+140,PL77C,6,6,True_OF_PL77D,-,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+141,PL77B,6,-,Comp_OF_PL77A,TRUE,LDQSN77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+143,PL77D,6,6,Comp_OF_PL77C,-,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+144,PL80A,6,-,True_OF_PL80B,TRUE,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+146,PL80C,6,6,True_OF_PL80D,-,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+147,PL80B,6,-,Comp_OF_PL80A,TRUE,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+149,PL80D,6,6,Comp_OF_PL80C,-,LDQ77,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+150,PL83A,6,-,True_OF_PL83B,TRUE,LDQ89,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+152,PL83C,6,6,True_OF_PL83D,-,LDQ89,J17,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+153,PL83B,6,-,Comp_OF_PL83A,TRUE,LDQ89,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+155,PL83D,6,6,Comp_OF_PL83C,-,LDQ89,H18,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+156,PL86A,6,-,True_OF_PL86B,TRUE,LDQ89,J18,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+158,PL86C,6,6,True_OF_PL86D,-,LDQ89,K16,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+159,PL86B,6,-,Comp_OF_PL86A,TRUE,LDQ89,K18,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+161,PL86D,6,6,Comp_OF_PL86C,-,LDQ89,K15,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+162,PL89A,6,-,True_OF_PL89B,TRUE,LDQS89,K17,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+164,PL89C,6,6,True_OF_PL89D,-,LDQ89,L15,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+165,PL89B,6,-,Comp_OF_PL89A,TRUE,LDQSN89,L18,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+167,PL89D,6,6,Comp_OF_PL89C,-,LDQ89,L16,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+168,PL92A,6,-,True_OF_PL92B,TRUE,LDQ89,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+170,PL92B,6,6,Comp_OF_PL92A,TRUE,LDQ89,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+172,PL92C,6,6,True_OF_PL92D,-,LDQ89,M16,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+173,PL92D,6,6,Comp_OF_PL92C,-,LDQ89,M17,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO7,7,-,-,-,-,G14,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO7,7,-,-,-,-,H14,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO7,7,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO7,7,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO7,7,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO7,7,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO7,7,-,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+0,VCCIO7,7,8,-,-,-,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+6,PL11A,7,ULC_GPLL0T_IN,True_OF_PL11B,TRUE,LDQ17,C12,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+7,PL11B,7,ULC_GPLL0C_IN,Comp_OF_PL11A,TRUE,LDQ17,B12,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+9,PL11C,7,-,True_OF_PL11D,-,LDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+11,PL11D,7,-,Comp_OF_PL11C,-,LDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+12,PL14A,7,-,True_OF_PL14B,TRUE,LDQ17,A12,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+14,PL14C,7,-,True_OF_PL14D,-,LDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+15,PL14B,7,-,Comp_OF_PL14A,TRUE,LDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+17,PL14D,7,-,Comp_OF_PL14C,-,LDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+18,PL17A,7,-,True_OF_PL17B,TRUE,LDQS17,D13,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+20,PL17C,7,-,True_OF_PL17D,-,LDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+21,PL17B,7,-,Comp_OF_PL17A,TRUE,LDQSN17,C13,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+23,PL17D,7,-,Comp_OF_PL17C,-,LDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+24,PL20A,7,-,True_OF_PL20B,TRUE,LDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+26,PL20C,7,7,True_OF_PL20D,-,LDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+27,PL20B,7,7,Comp_OF_PL20A,TRUE,LDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+29,PL20D,7,7,Comp_OF_PL20C,-,LDQ17,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+30,PL23A,7,-,True_OF_PL23B,TRUE,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+32,PL23C,7,7,True_OF_PL23D,-,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+33,PL23B,7,-,Comp_OF_PL23A,TRUE,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+35,PL23D,7,7,Comp_OF_PL23C,-,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+36,PL26A,7,-,True_OF_PL26B,TRUE,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+38,PL26C,7,7,True_OF_PL26D,-,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+39,PL26B,7,-,Comp_OF_PL26A,TRUE,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+41,PL26D,7,7,Comp_OF_PL26C,-,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+42,PL29A,7,-,True_OF_PL29B,TRUE,LDQS29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+44,PL29C,7,7,True_OF_PL29D,-,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+45,PL29B,7,-,Comp_OF_PL29A,TRUE,LDQSN29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+47,PL29D,7,7,Comp_OF_PL29C,-,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+48,PL32A,7,-,True_OF_PL32B,TRUE,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+50,PL32C,7,7,True_OF_PL32D,-,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+51,PL32B,7,-,Comp_OF_PL32A,TRUE,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+53,PL32D,7,7,Comp_OF_PL32C,-,LDQ29,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+54,PL35A,7,-,True_OF_PL35B,TRUE,LDQ41,B13,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+56,PL35C,7,7,True_OF_PL35D,-,LDQ41,C15,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+57,PL35B,7,-,Comp_OF_PL35A,TRUE,LDQ41,A13,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+59,PL35D,7,7,Comp_OF_PL35C,-,LDQ41,A15,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+60,PL38A,7,-,True_OF_PL38B,TRUE,LDQ41,D15,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+62,PL38C,7,7,True_OF_PL38D,-,LDQ41,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+63,PL38B,7,-,Comp_OF_PL38A,TRUE,LDQ41,D16,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+65,PL38D,7,7,Comp_OF_PL38C,-,LDQ41,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+66,PL41A,7,-,True_OF_PL41B,TRUE,LDQS41,B15,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+68,PL41C,7,7,True_OF_PL41D,-,LDQ41,C16,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+69,PL41B,7,-,Comp_OF_PL41A,TRUE,LDQSN41,A16,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+71,PL41D,7,7,Comp_OF_PL41C,-,LDQ41,-,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+72,PL44A,7,-,True_OF_PL44B,TRUE,LDQ41,A17,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+74,PL44C,7,7,True_OF_PL44D,-,LDQ41,B18,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+75,PL44B,7,-,Comp_OF_PL44A,TRUE,LDQ41,B17,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+77,PL44D,7,7,Comp_OF_PL44C,-,LDQ41,C17,High-Speed DDR / Video Banks,DDR3 / HDMI / Video / LVDS
+210,TDO,40,8,-,-,-,V14,JTAG / Configuration Bank,Programming and Debug
+211,TCK,40,-,-,-,-,U13,JTAG / Configuration Bank,Programming and Debug
+213,TDI,40,8,-,-,-,T13,JTAG / Configuration Bank,Programming and Debug
+214,TMS,40,-,-,-,-,V13,JTAG / Configuration Bank,Programming and Debug
+0,NC,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,0,-,-,-,G2,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,L2,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,0,-,-,-,B3,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,0,-,-,-,E5,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,F5,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,0,-,-,-,K5,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,0,-,-,-,L5,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,F6,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,0,-,-,-,G6,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,0,-,-,-,H6,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,J6,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,0,-,-,-,K6,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,0,-,-,-,L6,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,M6,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,0,-,-,-,E7,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,F7,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,G7,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,H7,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,J7,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,K7,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,L7,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,M7,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,N7,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,E8,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,F8,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,G8,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,H8,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,J8,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,K8,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,L8,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,M8,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,N8,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,E9,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,F9,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,G9,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,H9,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,J9,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,K9,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,L9,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,M9,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,N9,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,E10,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,F10,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,G10,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,H10,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,J10,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,K10,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,L10,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,M10,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,N10,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,E11,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,F11,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,G11,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,H11,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,J11,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,K11,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,L11,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,M11,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,N11,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,E12,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,F12,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,G12,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,H12,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,J12,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,K12,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,L12,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,M12,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,N12,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,F13,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,G13,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,H13,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,J13,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,K13,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,L13,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,M13,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,E14,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,F14,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,K14,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,L14,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,B16,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,T16,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,G17,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,L17,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,J4,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,M4,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,J5,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,P7,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,D8,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,D9,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,P9,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,D10,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,D11,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,P11,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,J14,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,J15,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,M15,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,E6,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,N6,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,E13,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,P13,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,2,-,-,-,R1,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,2,-,-,-,R2,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,2,-,-,-,T2,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,2,-,-,-,U2,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,2,-,-,-,T3,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,2,-,-,-,U3,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,2,-,-,-,T4,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,3,-,-,-,U4,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,3,-,-,-,V4,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,3,-,-,-,U5,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,3,-,-,-,P6,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,3,-,-,-,T6,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,3,-,-,-,T7,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,3,-,-,-,U7,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,3,-,-,-,V7,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,4,-,-,-,P8,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,4,-,-,-,T8,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,4,-,-,-,T9,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,4,-,-,-,U9,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,4,-,-,-,T10,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,U10,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,V10,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,T11,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,U11,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,P12,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,T12,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA0,-,-,-,-,-,P10,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA0,-,-,-,-,-,R10,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUXA0,-,-,-,-,-,R3,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUXA0,-,-,-,-,-,P5,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUXA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUXA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUXA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUXA0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUXA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUXA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUXA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUXA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUXA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,VCCAUXA1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+0,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+1,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+2,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+3,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+4,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+5,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+8,VSSIO7,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+10,VCCIO7,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+13,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+16,VSS,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+19,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+22,VSS,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+25,VSSIO7,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+28,VCCIO7,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+31,VSSIO7,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+34,VCCIO7,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+37,VCCAUX,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+40,VSS,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+43,VCC,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+46,VSS,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+49,VSSIO7,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+52,VCCIO7,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+55,VSSIO7,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+58,VCCIO7,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+61,VCCAUX,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+64,VSS,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+67,VCC,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+70,VSS,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+73,VSSIO7,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+76,VCCIO7,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+79,VSSIO6,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+82,VCCIO6,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+85,VCCAUX,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+88,VSS,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+91,VCC,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+94,VSS,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+97,VSSIO6,-,7,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+100,VCCIO6,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+103,VSSIO6,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+106,VCCIO6,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+109,VCCAUX,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+112,VSS,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+115,VCC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+118,VSS,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+121,VSSIO6,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+124,VCCIO6,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+127,VSSIO6,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+130,VCCIO6,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+133,VCCAUX,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+136,VSS,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+139,VCC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+142,VSS,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+145,VSSIO6,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+148,VCCIO6,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+151,VSSIO6,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+154,VCCIO6,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+157,VCCAUX,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+160,VSS,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+163,VCC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+166,VSS,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+169,VSSIO6,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+171,VCCIO6,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+174,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+175,NC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+176,GND,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+177,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+178,VCC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+179,VSS,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+182,VCC,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+185,VSS,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+188,VSSIO8,-,6,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+191,VCCIO8,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+194,VSSIO8,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+197,VCCIO8,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+200,VCCAUX,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+203,VSS,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+206,VCC,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+209,VSS,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+212,VSSIO8,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+215,VCCIO8,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+216,VCC,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+217,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+218,VSS,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+219,VSS,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+220,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+221,VCC,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+222,VSSA0_D0CH0,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+223,VCCATX0_D0CH0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+225,VCCHTX0_D0CH0,-,8,-,-,-,U12,Power / Ground / Misc,Power / Ground / Dedicated
+227,VSSA0_D0CH0,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+228,VCCARX0_D0CH0,-,8,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+230,VCCARX0_D0CH0,-,40,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+231,VCCHRX0_D0CH0,-,40,-,-,-,U8,Power / Ground / Misc,Power / Ground / Dedicated
+233,VSSA0_D0CH0,-,40,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+234,VSSA1_D0CH1,-,40,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+236,VCCARX1_D0CH1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+237,VCCHRX1_D0CH1,-,-,-,-,-,U6,Power / Ground / Misc,Power / Ground / Dedicated
+239,VCCARX1_D0CH1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+240,VSSA1_D0CH1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+242,VCCHTX1_D0CH1,-,-,-,-,-,T5,Power / Ground / Misc,Power / Ground / Dedicated
+244,VCCATX1_D0CH1,-,50,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+245,VSSA1_D0CH1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+246,RESERVED,-,50,True_OF_ATSTN_D0,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+247,VCCA_D0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+248,RESERVED,-,-,Comp_OF_ATSTP_D0,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+249,VSSA_D0,-,50,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+250,VSSA_D0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+252,VCCA25_D0,-,50,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+254,VSSA0_D1CH0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+255,VCCATX0_D1CH0,-,50,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+257,VCCHTX0_D1CH0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+259,VSSA0_D1CH0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+260,VCCARX0_D1CH0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+262,VCCARX0_D1CH0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+263,VCCHRX0_D1CH0,-,50,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+265,VSSA0_D1CH0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+266,VSSA1_D1CH1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+268,VCCARX1_D1CH1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+269,VCCHRX1_D1CH1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+271,VCCARX1_D1CH1,-,50,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+272,VSSA1_D1CH1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+274,VCCHTX1_D1CH1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+276,VCCATX1_D1CH1,-,51,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+277,VSSA1_D1CH1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+278,RESERVED,-,51,True_OF_ATSTN_D1,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+279,VCCA_D1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+280,RESERVED,-,-,Comp_OF_ATSTP_D1,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+281,VSSA_D1,-,51,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+282,VSSA_D1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+284,VCCA25_D1,-,51,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+286,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+287,VCC,-,51,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+288,VSS,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+289,VSS,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+292,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+295,VSS,-,51,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+298,VSSIO4,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+301,VCCIO4,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+304,VSSIO4,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+307,VCCIO4,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+310,VCCAUX,-,4,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+313,VSS,-,4,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+316,VCC,-,4,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+319,VSS,-,4,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+322,VSSIO4,-,4,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+325,VCCIO4,-,4,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+326,VCC,-,4,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+327,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+328,VSS,-,4,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+329,GND,-,4,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+330,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+331,NC,-,4,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+334,VCCIO3,-,4,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+336,VSSIO3,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+339,VSS,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+342,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+345,VSS,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+348,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+351,VCCIO3,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+354,VSSIO3,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+357,VCCIO3,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+360,VSSIO3,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+363,VSS,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+366,VCC,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+369,VSS,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+372,VCCAUX,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+375,VCCIO3,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+378,VSSIO3,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+381,VCCIO3,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+384,VSSIO3,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+387,VSS,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+390,VCC,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+393,VSS,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+396,VCCAUX,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+399,VCCIO3,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+402,VSSIO3,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+405,VCCIO3,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+408,VSSIO3,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+411,VSS,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+414,VCC,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+417,VSS,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+420,VCCAUX,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+423,VCCIO3,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+426,VSSIO3,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+429,VCCIO2,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+432,VSSIO2,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+435,VSS,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+438,VCC,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+441,VSS,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+444,VCCAUX,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+447,VCCIO2,-,3,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+450,VSSIO2,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+453,VCCIO2,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+456,VSSIO2,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+459,VSS,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+462,VCC,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+465,VSS,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+468,VCCAUX,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+471,VCCIO2,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+474,VSSIO2,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+477,VCCIO2,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+480,VSSIO2,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+483,VSS,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+486,VCC,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+489,VSS,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+492,VCCAUX,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+495,VCCIO2,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+497,VSSIO2,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+500,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+501,NC,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+502,NC,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+503,NC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+504,NC,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+505,GND,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+506,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+507,VSS,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+508,VCC,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+510,VCCIO1,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+513,VSSIO1,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+516,VSS,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+519,VCC,-,2,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+522,VSS,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+525,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+528,VCCIO1,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+531,VSSIO1,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+534,VCCIO1,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+537,VSSIO1,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+540,VSS,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+543,VCC,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+546,VSS,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+549,VCCAUX,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+552,VCCIO1,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+555,VSSIO1,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+558,VCCIO1,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+561,VSSIO1,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+564,VSS,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+567,VCC,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+570,VCCIO1,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+573,VSSIO1,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+576,VSS,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+579,VCC,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+581,VSS,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+582,VCC,-,1,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+584,VCCIO0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+587,VSSIO0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+590,VSS,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+593,VCC,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+596,VSS,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+599,VCCAUX,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+602,VCCIO0,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+605,VSSIO0,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+608,VCCIO0,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+611,VSSIO0,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+614,VSS,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+617,VCC,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+620,VSS,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+623,VCCAUX,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+626,VCCIO0,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+629,VSSIO0,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+632,VCCIO0,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+635,VSSIO0,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+638,VSS,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+641,VCC,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+644,VSS,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+647,VCCAUX,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+650,VCCIO0,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+653,VSSIO0,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+656,VCCIO0,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+659,VSSIO0,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+662,VSS,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+665,VCC,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+667,VSS,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+668,VCC,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+669,VCC,-,0,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+670,GND,-,-,-,-,-,-,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+,,,-,,,,,Power / Ground / Misc,Power / Ground / Dedicated
+224,HDTXP0_D0CH0,50,8,True_OF_HDTXN0_D0CH0,-,-,V12,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+226,HDTXN0_D0CH0,50,-,Comp_OF_HDTXP0_D0CH0,-,-,V11,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+229,HDRXP0_D0CH0,50,-,True_OF_HDRXN0_D0CH0,-,-,V9,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+232,HDRXN0_D0CH0,50,-,Comp_OF_HDRXP0_D0CH0,-,-,V8,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+235,HDRXP0_D0CH1,50,-,True_OF_HDRXN0_D0CH1,-,-,V6,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+238,HDRXN0_D0CH1,50,-,Comp_OF_HDRXP0_D0CH1,-,-,V5,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+241,HDTXP0_D0CH1,50,-,True_OF_HDTXN0_D0CH1,-,-,V3,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+243,HDTXN0_D0CH1,50,-,Comp_OF_HDTXP0_D0CH1,-,-,V2,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+251,REFCLKP_D0,50,-,True_OF_REFCLKN_D0,-,-,U1,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+253,REFCLKN_D0,50,-,Comp_OF_REFCLKP_D0,-,-,T1,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+256,HDTXP0_D1CH0,51,-,True_OF_HDTXN0_D1CH0,-,-,-,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+258,HDTXN0_D1CH0,51,50,Comp_OF_HDTXP0_D1CH0,-,-,-,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+261,HDRXP0_D1CH0,51,50,True_OF_HDRXN0_D1CH0,-,-,-,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+264,HDRXN0_D1CH0,51,-,Comp_OF_HDRXP0_D1CH0,-,-,-,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+267,HDRXP0_D1CH1,51,-,True_OF_HDRXN0_D1CH1,-,-,-,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+270,HDRXN0_D1CH1,51,-,Comp_OF_HDRXP0_D1CH1,-,-,-,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+273,HDTXP0_D1CH1,51,50,True_OF_HDTXN0_D1CH1,-,-,-,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+275,HDTXN0_D1CH1,51,-,Comp_OF_HDTXP0_D1CH1,-,-,-,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+283,REFCLKP_D1,51,-,True_OF_REFCLKN_D1,-,-,-,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial
+285,REFCLKN_D1,51,-,Comp_OF_REFCLKP_D1,-,-,-,SERDES / High-Speed Transceiver Banks,PCIe / DisplayPort / High-Speed Serial

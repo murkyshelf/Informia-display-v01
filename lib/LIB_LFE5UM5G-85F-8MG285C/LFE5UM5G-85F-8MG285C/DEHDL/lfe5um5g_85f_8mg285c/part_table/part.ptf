@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LFE5UM5G_85F_8MG285C'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Lattice Semiconductor", "LFE5UM5G-85F-8MG285C" (!) = "", "BGA285C50P18X18_1000X1000X130", "BGA", "842-5UM5G85F8MG285C", "https://www.mouser.co.uk/ProductDetail/Lattice/LFE5UM5G-85F-8MG285C?qs=Rp3RbKSfAt0l1MN8lieMGw%3D%3D", "ECP5-5G Field Programmable Gate Array (FPGA) IC 118 3833856 84000 285-TFBGA", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0025462.pdf", "1.3 mm"
+END_PART
+
+END.

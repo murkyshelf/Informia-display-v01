@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MT41K128M16JT_125_K'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Micron", "MT41K128M16JT-125:K" (!) = "", "BGA96C80P9X16_800X1400X120", "BGA", "340-135795-TRAY", "https://www.mouser.co.uk/ProductDetail/Micron/MT41K128M16JT-125K?qs=rrS6PyfT74fXNZ%252B5rdA1ug%3D%3D", "SDRAM - DDR3L Memory IC 2Gb (128M x 16) Parallel 800MHz 13.75ns 96-FBGA (8x14)", "https://media-www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/2gb_1_35v_ddr3l.pdf?rev=4f46f8613ff2467c9f3428e9043d0098", "1.2 mm"
+END_PART
+
+END.

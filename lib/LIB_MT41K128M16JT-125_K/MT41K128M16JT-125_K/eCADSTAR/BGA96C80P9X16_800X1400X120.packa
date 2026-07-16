@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MT41K128M16JT-125_K"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-12-11:30:54)
+    (mountForm default
+        (footprintRef "BGA96C80P9X16_800X1400X120")
+        (spec "System")
+    )
+)
