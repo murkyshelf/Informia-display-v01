@@ -1,4 +1,4 @@
 (sym_lib_table
 	(version 7)
-	(lib (name "murky") (type "KiCad") (uri "/home/murky/projects/fpga_v2/lib/murky/murky-informis.kicad_sym") (options "") (descr ""))
+	(lib (name "murky") (type "KiCad") (uri "C:/Informia-display-v01/Informia-display-v01/lib/murky/murky-informis.kicad_sym") (options "") (descr ""))
 )

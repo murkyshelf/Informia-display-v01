@@ -10947,7 +10947,7 @@
 			)
 		)
 		(property "Footprint" "BGA96C80P9X16_800X1400X120"
-			(at 31.75 -94.92 0)
+			(at 273.05 -177.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -11054,7 +11054,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 0 0)
+				(at 228.6 -170.18 0)
 				(length 5.08)
 				(name "VDDQ_1"
 					(effects
@@ -11072,7 +11072,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -2.54 0)
+				(at 187.96 -3.81 0)
 				(length 5.08)
 				(name "DQ13"
 					(effects
@@ -11090,7 +11090,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -5.08 0)
+				(at 187.96 -6.35 0)
 				(length 5.08)
 				(name "DQ15"
 					(effects
@@ -11108,7 +11108,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -7.62 0)
+				(at 187.96 -8.89 0)
 				(length 5.08)
 				(name "DQ12"
 					(effects
@@ -11126,7 +11126,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -10.16 0)
+				(at 228.6 -173.99 0)
 				(length 5.08)
 				(name "VDDQ_2"
 					(effects
@@ -11144,7 +11144,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -12.7 0)
+				(at 256.54 -170.18 0)
 				(length 5.08)
 				(name "VSS_1"
 					(effects
@@ -11162,7 +11162,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -15.24 0)
+				(at 285.75 -170.18 0)
 				(length 5.08)
 				(name "VSSQ_1"
 					(effects
@@ -11180,7 +11180,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -17.78 0)
+				(at 207.01 -170.18 0)
 				(length 5.08)
 				(name "VDD_1"
 					(effects
@@ -11198,7 +11198,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -20.32 0)
+				(at 256.54 -173.99 0)
 				(length 5.08)
 				(name "VSS_2"
 					(effects
@@ -11234,7 +11234,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -25.4 0)
+				(at 187.96 -26.67 0)
 				(length 5.08)
 				(name "DQ14"
 					(effects
@@ -11252,7 +11252,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -27.94 0)
+				(at 285.75 -173.99 0)
 				(length 5.08)
 				(name "VSSQ_2"
 					(effects
@@ -11270,7 +11270,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -30.48 0)
+				(at 228.6 -177.8 0)
 				(length 5.08)
 				(name "VDDQ_3"
 					(effects
@@ -11288,7 +11288,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -33.02 0)
+				(at 187.96 -34.29 0)
 				(length 5.08)
 				(name "DQ11"
 					(effects
@@ -11306,7 +11306,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -35.56 0)
+				(at 187.96 -36.83 0)
 				(length 5.08)
 				(name "DQ9"
 					(effects
@@ -11342,7 +11342,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -40.64 0)
+				(at 187.96 -41.91 0)
 				(length 5.08)
 				(name "DQ10"
 					(effects
@@ -11360,7 +11360,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -43.18 0)
+				(at 228.6 -181.61 0)
 				(length 5.08)
 				(name "VDDQ_4"
 					(effects
@@ -11378,7 +11378,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -45.72 0)
+				(at 285.75 -177.8 0)
 				(length 5.08)
 				(name "VSSQ_3"
 					(effects
@@ -11396,7 +11396,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -48.26 0)
+				(at 228.6 -185.42 0)
 				(length 5.08)
 				(name "VDDQ_5"
 					(effects
@@ -11432,7 +11432,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -53.34 0)
+				(at 187.96 -54.61 0)
 				(length 5.08)
 				(name "DQ8"
 					(effects
@@ -11450,7 +11450,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -55.88 0)
+				(at 285.75 -181.61 0)
 				(length 5.08)
 				(name "VSSQ_4"
 					(effects
@@ -11468,7 +11468,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -58.42 0)
+				(at 207.01 -172.72 0)
 				(length 5.08)
 				(name "VDD_2"
 					(effects
@@ -11486,7 +11486,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -60.96 0)
+				(at 256.54 -179.07 0)
 				(length 5.08)
 				(name "VSS_3"
 					(effects
@@ -11504,7 +11504,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -63.5 0)
+				(at 285.75 -185.42 0)
 				(length 5.08)
 				(name "VSSQ_5"
 					(effects
@@ -11522,7 +11522,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -66.04 0)
+				(at 187.96 -67.31 0)
 				(length 5.08)
 				(name "DQ0"
 					(effects
@@ -11558,7 +11558,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -71.12 0)
+				(at 285.75 -189.23 0)
 				(length 5.08)
 				(name "VSSQ_6"
 					(effects
@@ -11576,7 +11576,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -73.66 0)
+				(at 228.6 -189.23 0)
 				(length 5.08)
 				(name "VDDQ_6"
 					(effects
@@ -11594,7 +11594,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -76.2 0)
+				(at 228.6 -191.77 0)
 				(length 5.08)
 				(name "VDDQ_7"
 					(effects
@@ -11612,7 +11612,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -78.74 0)
+				(at 187.96 -80.01 0)
 				(length 5.08)
 				(name "DQ2"
 					(effects
@@ -11648,7 +11648,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -83.82 0)
+				(at 187.96 -85.09 0)
 				(length 5.08)
 				(name "DQ1"
 					(effects
@@ -11666,7 +11666,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -86.36 0)
+				(at 187.96 -87.63 0)
 				(length 5.08)
 				(name "DQ3"
 					(effects
@@ -11684,7 +11684,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -88.9 0)
+				(at 285.75 -193.04 0)
 				(length 5.08)
 				(name "VSSQ_7"
 					(effects
@@ -11702,7 +11702,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -91.44 0)
+				(at 285.75 -195.58 0)
 				(length 5.08)
 				(name "VSSQ_8"
 					(effects
@@ -11720,7 +11720,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -93.98 0)
+				(at 187.96 -95.25 0)
 				(length 5.08)
 				(name "DQ6"
 					(effects
@@ -11756,7 +11756,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -99.06 0)
+				(at 207.01 -176.53 0)
 				(length 5.08)
 				(name "VDD_3"
 					(effects
@@ -11774,7 +11774,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -101.6 0)
+				(at 256.54 -182.88 0)
 				(length 5.08)
 				(name "VSS_4"
 					(effects
@@ -11792,7 +11792,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -104.14 0)
+				(at 285.75 -198.12 0)
 				(length 5.08)
 				(name "VSSQ_9"
 					(effects
@@ -11810,7 +11810,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -106.68 0)
+				(at 312.42 -173.99 0)
 				(length 5.08)
 				(name "VREFDQ"
 					(effects
@@ -11828,7 +11828,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -109.22 0)
+				(at 228.6 -194.31 0)
 				(length 5.08)
 				(name "VDDQ_8"
 					(effects
@@ -11846,7 +11846,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -111.76 0)
+				(at 187.96 -113.03 0)
 				(length 5.08)
 				(name "DQ4"
 					(effects
@@ -11864,7 +11864,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -114.3 0)
+				(at 187.96 -115.57 0)
 				(length 5.08)
 				(name "DQ7"
 					(effects
@@ -11882,7 +11882,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -116.84 0)
+				(at 187.96 -118.11 0)
 				(length 5.08)
 				(name "DQ5"
 					(effects
@@ -11900,7 +11900,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -119.38 0)
+				(at 228.6 -196.85 0)
 				(length 5.08)
 				(name "VDDQ_9"
 					(effects
@@ -11936,7 +11936,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -2.54 180)
+				(at 256.54 -186.69 0)
 				(length 5.08)
 				(name "VSS_5"
 					(effects
@@ -11990,7 +11990,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -10.16 180)
+				(at 256.54 -190.5 0)
 				(length 5.08)
 				(name "VSS_6"
 					(effects
@@ -12044,7 +12044,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -17.78 180)
+				(at 207.01 -180.34 0)
 				(length 5.08)
 				(name "VDD_4"
 					(effects
@@ -12098,7 +12098,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -25.4 180)
+				(at 207.01 -184.15 0)
 				(length 5.08)
 				(name "VDD_5"
 					(effects
@@ -12188,7 +12188,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -38.1 180)
+				(at 182.88 -177.8 0)
 				(length 5.08)
 				(name "A10/AP"
 					(effects
@@ -12242,7 +12242,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -45.72 180)
+				(at 256.54 -195.58 0)
 				(length 5.08)
 				(name "VSS_7"
 					(effects
@@ -12314,7 +12314,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -55.88 180)
+				(at 312.42 -170.18 0)
 				(length 5.08)
 				(name "VREFCA"
 					(effects
@@ -12332,7 +12332,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -58.42 180)
+				(at 256.54 -200.66 0)
 				(length 5.08)
 				(name "VSS_8"
 					(effects
@@ -12350,7 +12350,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -60.96 180)
+				(at 207.01 -187.96 0)
 				(length 5.08)
 				(name "VDD_6"
 					(effects
@@ -12368,7 +12368,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -63.5 180)
+				(at 182.88 -201.93 0)
 				(length 5.08)
 				(name "A3"
 					(effects
@@ -12386,7 +12386,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -66.04 180)
+				(at 182.88 -213.36 0)
 				(length 5.08)
 				(name "A0"
 					(effects
@@ -12404,7 +12404,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -68.58 180)
+				(at 182.88 -172.72 0)
 				(length 5.08)
 				(name "A12/BC#"
 					(effects
@@ -12440,7 +12440,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -73.66 180)
+				(at 207.01 -193.04 0)
 				(length 5.08)
 				(name "VDD_7"
 					(effects
@@ -12458,7 +12458,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -76.2 180)
+				(at 256.54 -205.74 0)
 				(length 5.08)
 				(name "VSS_9"
 					(effects
@@ -12476,7 +12476,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -78.74 180)
+				(at 182.88 -194.31 0)
 				(length 5.08)
 				(name "A5"
 					(effects
@@ -12494,7 +12494,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -81.28 180)
+				(at 182.88 -205.74 0)
 				(length 5.08)
 				(name "A2"
 					(effects
@@ -12512,7 +12512,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -83.82 180)
+				(at 182.88 -209.55 0)
 				(length 5.08)
 				(name "A1"
 					(effects
@@ -12530,7 +12530,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -86.36 180)
+				(at 182.88 -198.12 0)
 				(length 5.08)
 				(name "A4"
 					(effects
@@ -12548,7 +12548,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -88.9 180)
+				(at 256.54 -209.55 0)
 				(length 5.08)
 				(name "VSS_10"
 					(effects
@@ -12566,7 +12566,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -91.44 180)
+				(at 207.01 -196.85 0)
 				(length 5.08)
 				(name "VDD_8"
 					(effects
@@ -12584,7 +12584,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -93.98 180)
+				(at 182.88 -186.69 0)
 				(length 5.08)
 				(name "A7"
 					(effects
@@ -12602,7 +12602,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -96.52 180)
+				(at 182.88 -180.34 0)
 				(length 5.08)
 				(name "A9"
 					(effects
@@ -12620,7 +12620,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -99.06 180)
+				(at 182.88 -175.26 0)
 				(length 5.08)
 				(name "A11"
 					(effects
@@ -12638,7 +12638,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -101.6 180)
+				(at 182.88 -190.5 0)
 				(length 5.08)
 				(name "A6"
 					(effects
@@ -12656,7 +12656,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -104.14 180)
+				(at 207.01 -199.39 0)
 				(length 5.08)
 				(name "VDD_9"
 					(effects
@@ -12674,7 +12674,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -106.68 180)
+				(at 256.54 -213.36 0)
 				(length 5.08)
 				(name "VSS_11"
 					(effects
@@ -12710,7 +12710,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -111.76 180)
+				(at 182.88 -170.18 0)
 				(length 5.08)
 				(name "A13"
 					(effects
@@ -12746,7 +12746,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -116.84 180)
+				(at 182.88 -182.88 0)
 				(length 5.08)
 				(name "A8"
 					(effects
@@ -12764,7 +12764,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -119.38 180)
+				(at 256.54 -217.17 0)
 				(length 5.08)
 				(name "VSS_12"
 					(effects
