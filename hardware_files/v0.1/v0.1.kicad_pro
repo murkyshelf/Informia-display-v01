@@ -472,8 +472,7 @@
       "murky"
     ],
     "pinned_symbol_libs": [
-      "murky",
-      "murky-informis"
+      "murky"
     ]
   },
   "meta": {
@@ -637,7 +636,7 @@
         "uuid": "b913df20-761e-41f4-8775-5de3673cbc2b"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U2,R3-4,L2,C5-12,#PWR10-20,IC2",
     "variants": []
   },
   "sheets": [

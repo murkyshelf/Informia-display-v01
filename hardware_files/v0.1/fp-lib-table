@@ -1,4 +1,4 @@
 (fp_lib_table
 	(version 7)
-	(lib (name "myLib") (type "KiCad") (uri "/home/murky/projects/fpga_v2/lib/myLib.pretty") (options "") (descr ""))
+	(lib (name "murky") (type "KiCad") (uri "/home/murky/projects/fpga_v2/lib/murky/footprints.pretty") (options "") (descr ""))
 )
