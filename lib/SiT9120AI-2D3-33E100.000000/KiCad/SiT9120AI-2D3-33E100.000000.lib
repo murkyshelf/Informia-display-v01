@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SiT9120AI-2D3-33E100.000000
+#/17824795/2077217/2.50/6/2/Crystal or Oscillator
+DEF SiT9120AI-2D3-33E100.000000 Y 0 30 Y Y 1 F N
+F0 "Y" 1250 300 50 H V L CNN
+F1 "SiT9120AI-2D3-33E100.000000" 1250 200 50 H V L CNN
+F2 "QFN_7050_6pins" 1250 100 50 H I L CNN
+F3 "https://www.sitime.com/support/resource-library/datasheets/sit9120-datasheet" 1250 0 50 H I L CNN
+F4 "Standard Frequency Differential Oscillator, 7 x 5mm, 6-Pin Package" 1250 -100 50 H I L CNN "Description"
+F5 "1" 1250 -200 50 H I L CNN "Height"
+F6 "SiTime" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SiT9120AI-2D3-33E100.000000" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X NC/OE/~ST 1 0 0 200 R 50 50 0 0 P
+X NC 2 0 -100 200 R 50 50 0 0 N
+X GND 3 0 -200 200 R 50 50 0 0 P
+X OUT+ 4 1400 -200 200 L 50 50 0 0 P
+X OUT- 5 1400 -100 200 L 50 50 0 0 P
+X VDD 6 1400 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

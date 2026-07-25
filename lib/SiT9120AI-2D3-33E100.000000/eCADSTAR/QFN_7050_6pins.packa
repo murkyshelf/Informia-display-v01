@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SiT9120AI-2D3-33E100_000000"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-04-02-16:37:29)
+    (mountForm default
+        (footprintRef "QFN_7050_6pins")
+        (spec "System")
+    )
+)

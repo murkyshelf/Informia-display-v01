@@ -58,6 +58,19 @@
 		(uuid "186bdbed-6679-4a66-899f-0743b4667361")
 	)
 	(rectangle
+		(start 234.95 73.025)
+		(end 260.35 86.995)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type color)
+			(color 255 255 255 1)
+		)
+		(uuid "345af5fd-adcf-4a03-9f42-372bec96d4d4")
+	)
+	(rectangle
 		(start 115.57 86.36)
 		(end 140.97 123.19)
 		(stroke
@@ -196,6 +209,16 @@
 			)
 		)
 		(uuid "63b3858f-853d-4803-a254-de3492c7a704")
+	)
+	(text "POWER\n"
+		(exclude_from_sim no)
+		(at 254 62.484 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6ba4d6e8-b589-4476-8b6d-8f3fbbeb9be2")
 	)
 	(text "ddr3l ram\n"
 		(exclude_from_sim no)
@@ -483,7 +506,7 @@
 		)
 	)
 	(sheet
-		(at 234.95 50.8)
+		(at 234.95 73.025)
 		(size 38.1 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -499,7 +522,7 @@
 		)
 		(uuid "3e790f59-d5ef-4cc4-84a4-36411aba4984")
 		(property "Sheetname" "POWER"
-			(at 234.95 50.0884 0)
+			(at 234.95 72.3134 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -510,7 +533,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 234.95 72.9746 0)
+			(at 234.95 95.1996 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -601,7 +624,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ip_ports.kicad_sch"
+		(property "Sheetfile" "io_ports.kicad_sch"
 			(at 189.23 102.1846 0)
 			(show_name no)
 			(do_not_autoplace no)

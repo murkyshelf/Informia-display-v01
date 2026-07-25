@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "QFN_7050_6pins"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "QFN_7050_6pins")
+        (spec "default")
+    )
+)

@@ -1,0 +1,18 @@
+.SiT9120AI-2D3-33E100.000000 :1 ;Standard Frequency Differential Oscillator, 7 x 5mm, 6-Pin Package
+QFN_7050_6pins
+*STM Y
+*NGS
+*PLB 1="NC/OE/'ST'" 2="NC" 3="GND" 4="OUT+" 5="OUT-" 6="VDD"
+*MXP 6
+*DFN SiT9120AI-2D3-33E100.000000
+~!Manufacturer_Name (SiTime)
+~!Manufacturer_Part_Number (SiT9120AI-2D3-33E100.000000)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.sitime.com/support/resource-library/datasheets/sit9120-datasheet)
+~!Height (1mm)
+~!3D_Model (SiT9120AI-2D3-33E100.000000)
+SiT9120AI-2D3-33E100.000000
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

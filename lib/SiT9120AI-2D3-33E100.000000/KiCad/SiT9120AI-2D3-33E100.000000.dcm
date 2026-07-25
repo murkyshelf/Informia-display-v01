@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SiT9120AI-2D3-33E100.000000
+D Standard Frequency Differential Oscillator, 7 x 5mm, 6-Pin Package
+K
+F https://www.sitime.com/support/resource-library/datasheets/sit9120-datasheet
+$ENDCMP
+#
+#End Doc Library

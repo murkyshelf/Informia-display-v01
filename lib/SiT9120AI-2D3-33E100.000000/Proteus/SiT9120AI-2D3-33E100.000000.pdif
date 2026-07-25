@@ -1,0 +1,134 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SiT9120AI-2D3-33E100.000000"
+   (description "Standard Frequency Differential Oscillator, 7 x 5mm, 6-Pin Package")
+   (family "OSC")
+   (package "QFN_7050_6pins")
+   (attribute "Datasheet Link" "https://www.sitime.com/support/resource-library/datasheets/sit9120-datasheet")
+   (attribute "Geometry.Height" "1mm")
+   (attribute "Manufacturer_Name" "SiTime")
+   (attribute "Manufacturer_Part_Number" "SiT9120AI-2D3-33E100.000000")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "SiT9120AI-2D3-33E100.000000")
+    (pin "NC/OE/$ST$" 1 PS)
+    (pin "NC" 2 NC)
+    (pin "GND" 3 PS)
+    (pin "OUT+" 4 PS)
+    (pin "OUT-" 5 PS)
+    (pin "VDD" 6 PS)
+   )
+  )
+  (symbol "SiT9120AI-2D3-33E100.000000"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1200 100) (pt 1200 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "QFN_7050_6pins"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.5 2.5)
+      (pt 3.5 2.5)
+      (pt 3.5 -2.5)
+      (pt -3.5 -2.5)
+      (pt -3.5 2.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.5 3.7)
+      (pt 4.5 3.7)
+      (pt 4.5 -3.7)
+      (pt -4.5 -3.7)
+      (pt -4.5 3.7))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.6 -3.2)
+      (arc (pt -2.600 -3.200) (pt -2.700 -3.250) (pt -2.600 -3.150) (start 180.0) (sweep .0))
+      (pt -2.7 -3.2)
+      (arc (pt -2.700 -3.200) (pt -2.700 -3.250) (pt -2.600 -3.150) (start 180.0) (sweep 180.0))
+      (pt -2.6 -3.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 3.5 0.8)
+      (pt 3.5 -0.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.5 0.8)
+      (pt -3.5 -0.8))))
+   (leg 1 (pt -2.540 -1.900) (padstack 0))
+   (leg 2 (pt 0.000 -1.900) (padstack 0))
+   (leg 3 (pt 2.540 -1.900) (padstack 0))
+   (leg 4 (pt 2.540 1.900) (padstack 0))
+   (leg 5 (pt 0.000 1.900) (padstack 0))
+   (leg 6 (pt -2.540 1.900) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (square 1.600))
+   )
+   (model "SiT9120AI-2D3-33E100.000000.stp"
+    (euler 0 0 0)
+    (offset 0 0 0.019999999552965164)
+   )
+  )
+ )
+)

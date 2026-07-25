@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SiT9120AI_2D3_33E100.000000'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SiTime", "SiT9120AI-2D3-33E100.000000" (!) = "", "QFN_7050_6pins", "Other", "", "", "", "", "Standard Frequency Differential Oscillator, 7 x 5mm, 6-Pin Package", "https://www.sitime.com/support/resource-library/datasheets/sit9120-datasheet", "1 mm"
+END_PART
+
+END.
