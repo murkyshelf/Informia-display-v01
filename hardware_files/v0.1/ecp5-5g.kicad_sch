@@ -10921,59 +10921,33 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "murky-lib:SiT9120AI-2D3-33E100.000000"
+		(symbol "murky-lib:SIT8008BI-83-33E-100.000000X"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "Y"
-				(at 31.75 7.62 0)
+			(property "Reference" "U"
+				(at 15.24 4.572 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
-			(property "Value" "SiT9120AI-2D3-33E100.000000"
-				(at 31.75 5.08 0)
+			(property "Value" "SIT8008BI-83-33E-100.000000X"
+				(at 17.526 6.604 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
-			(property "Footprint" "murky-lib:QFN_7050_6pins"
-				(at 31.75 -94.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Datasheet" "https://www.sitime.com/support/resource-library/datasheets/sit9120-datasheet"
-				(at 31.75 -194.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Description" "Standard Frequency Differential Oscillator, 7 x 5mm, 6-Pin Package"
+			(property "Footprint" "murky-lib:4-PQFN"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -10984,8 +10958,8 @@
 					)
 				)
 			)
-			(property "Height" "1"
-				(at 31.75 -394.92 0)
+			(property "Datasheet" "https://www.farnell.com/datasheets/2581493.pdf"
+				(at -0.762 -14.986 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -10993,11 +10967,10 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
-			(property "Manufacturer_Name" "SiTime"
-				(at 31.75 -494.92 0)
+			(property "Description" "SiT8008B Low Power Programmable Oscillator"
+				(at -0.254 -12.446 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -11005,73 +10978,12 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
-			(property "Manufacturer_Part_Number" "SiT9120AI-2D3-33E100.000000"
-				(at 31.75 -594.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 31.75 -694.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 31.75 -794.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Arrow Part Number" ""
-				(at 31.75 -894.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Arrow Price/Stock" ""
-				(at 31.75 -994.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(symbol "SiT9120AI-2D3-33E100.000000_1_1"
+			(symbol "SIT8008BI-83-33E-100.000000X_1_1"
 				(rectangle
-					(start 5.08 2.54)
-					(end 30.48 -7.62)
+					(start 2.54 2.794)
+					(end 21.336 -7.112)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -11081,9 +10993,9 @@
 					)
 				)
 				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "NC/OE/~{ST}"
+					(at 23.876 -5.08 180)
+					(length 2.54)
+					(name "OE/~{ST}/NC"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -11098,10 +11010,10 @@
 						)
 					)
 				)
-				(pin no_connect line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "NC"
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 2.54)
+					(name "GND"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -11116,10 +11028,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "GND"
+				(pin output line
+					(at 23.876 0 180)
+					(length 2.54)
+					(name "Vout"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -11134,10 +11046,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 35.56 -5.08 180)
-					(length 5.08)
-					(name "OUT+"
+				(pin input line
+					(at 0 0 0)
+					(length 2.54)
+					(name "Vdd"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -11145,42 +11057,6 @@
 						)
 					)
 					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 -2.54 180)
-					(length 5.08)
-					(name "OUT-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 35.56 0 180)
-					(length 5.08)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -11307,6 +11183,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy -41.91 250.19) (xy -41.91 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28aac38f-7782-4b8b-bf90-7608b6d62add")
+	)
+	(wire
+		(pts
+			(xy -41.91 248.92) (xy -39.37 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9afd6af1-22d1-45bd-a19f-543e6893d474")
+	)
 	(symbol
 		(lib_id "murky-lib:LFE5UM5G-85F-8MG285C")
 		(at -125.73 238.76 0)
@@ -11339,7 +11235,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA285C50P18X18_1000X1000X130"
+		(property "Footprint" "murky-lib:BGA285C50P18X18_1000X1000X130"
 			(at -108.712 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -12330,7 +12226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA285C50P18X18_1000X1000X130"
+		(property "Footprint" "murky-lib:BGA285C50P18X18_1000X1000X130"
 			(at -101.092 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13321,7 +13217,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA285C50P18X18_1000X1000X130"
+		(property "Footprint" "murky-lib:BGA285C50P18X18_1000X1000X130"
 			(at -43.942 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -14281,184 +14177,6 @@
 		)
 	)
 	(symbol
-		(lib_id "murky-lib:SiT9120AI-2D3-33E100.000000")
-		(at -41.91 245.11 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "729531dc-17ea-401c-b4b2-6ebe00d4db0b")
-		(property "Reference" "Y1"
-			(at -24.13 237.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SiT9120AI-2D3-33E100.000000"
-			(at -24.13 240.03 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "murky-lib:QFN_7050_6pins"
-			(at -10.16 340.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.sitime.com/support/resource-library/datasheets/sit9120-datasheet"
-			(at -10.16 440.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "Standard Frequency Differential Oscillator, 7 x 5mm, 6-Pin Package"
-			(at -41.91 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "1"
-			(at -10.16 640.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "SiTime"
-			(at -10.16 740.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SiT9120AI-2D3-33E100.000000"
-			(at -10.16 840.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at -10.16 940.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at -10.16 1040.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at -10.16 1140.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at -10.16 1240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "4"
-			(uuid "09e268ba-f76c-41eb-b847-e75c54a1c186")
-		)
-		(pin "5"
-			(uuid "8c7e4888-6ed8-49c3-a947-7eb454db72e0")
-		)
-		(pin "2"
-			(uuid "2b85aff4-88ce-4d1a-a031-f59b16ea4af3")
-		)
-		(pin "6"
-			(uuid "e7e3b316-3a5c-4bf1-8f26-42990bd89a24")
-		)
-		(pin "3"
-			(uuid "4efd8296-c3e0-4741-a26e-a384ce85e8eb")
-		)
-		(pin "1"
-			(uuid "6dd1bce1-77cf-483c-9feb-e4b55e132478")
-		)
-		(instances
-			(project "v0.1"
-				(path "/b913df20-761e-41f4-8775-5de3673cbc2b/7364dcb2-48e5-441b-9856-32e6d27554a3"
-					(reference "Y1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at -41.91 250.19 0)
 		(unit 1)
@@ -14568,7 +14286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA285C50P18X18_1000X1000X130"
+		(property "Footprint" "murky-lib:BGA285C50P18X18_1000X1000X130"
 			(at -41.402 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -15559,7 +15277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA285C50P18X18_1000X1000X130"
+		(property "Footprint" "murky-lib:BGA285C50P18X18_1000X1000X130"
 			(at -104.902 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -16550,7 +16268,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA285C50P18X18_1000X1000X130"
+		(property "Footprint" "murky-lib:BGA285C50P18X18_1000X1000X130"
 			(at -102.362 12.7 0)
 			(hide yes)
 			(show_name no)
@@ -17541,7 +17259,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA285C50P18X18_1000X1000X130"
+		(property "Footprint" "murky-lib:BGA285C50P18X18_1000X1000X130"
 			(at -54.102 11.43 0)
 			(hide yes)
 			(show_name no)
@@ -18532,7 +18250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA285C50P18X18_1000X1000X130"
+		(property "Footprint" "murky-lib:BGA285C50P18X18_1000X1000X130"
 			(at -42.672 -46.99 0)
 			(hide yes)
 			(show_name no)
@@ -19492,6 +19210,92 @@
 		)
 	)
 	(symbol
+		(lib_id "murky-lib:SIT8008BI-83-33E-100.000000X")
+		(at -39.37 243.84 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ded1e3c9-48a3-40fa-aa2d-42851b44df9f")
+		(property "Reference" "U7"
+			(at -27.432 236.22 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SIT8008BI-83-33E-100.000000X"
+			(at -27.432 238.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "murky-lib:4-PQFN"
+			(at -39.37 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.farnell.com/datasheets/2581493.pdf"
+			(at -40.132 258.826 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SiT8008B Low Power Programmable Oscillator"
+			(at -39.624 256.286 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "5dc9a8bc-5a2f-4670-a996-f68daad88e77")
+		)
+		(pin "3"
+			(uuid "cd2b702c-75c5-4882-9a96-415f02084a21")
+		)
+		(pin "2"
+			(uuid "5426719c-7696-4829-b340-188618db0086")
+		)
+		(pin "1"
+			(uuid "f708111a-1051-4c23-b84b-e96b28f7d080")
+		)
+		(instances
+			(project "v0.1"
+				(path "/b913df20-761e-41f4-8775-5de3673cbc2b/7364dcb2-48e5-441b-9856-32e6d27554a3"
+					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "murky-lib:LFE5UM5G-85F-8MG285C")
 		(at -115.57 -22.86 0)
 		(unit 4)
@@ -19523,7 +19327,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA285C50P18X18_1000X1000X130"
+		(property "Footprint" "murky-lib:BGA285C50P18X18_1000X1000X130"
 			(at -98.552 -43.18 0)
 			(hide yes)
 			(show_name no)

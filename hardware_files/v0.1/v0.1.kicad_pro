@@ -655,7 +655,7 @@
         "uuid": "b913df20-761e-41f4-8775-5de3673cbc2b"
       }
     ],
-    "used_designators": "#PWR24-31,Y1,IC1-4,U4-7",
+    "used_designators": "J1,#PWR24-31,Y1,IC1-4,U4-9",
     "variants": []
   },
   "sheets": [
@@ -669,7 +669,7 @@
     ],
     [
       "7dc7cad2-8fb1-4a7c-b3d6-dcb9a49c1337",
-      "io-ports"
+      "IO port"
     ],
     [
       "20cdcbe8-161f-4598-94a9-5dba2f70f220",

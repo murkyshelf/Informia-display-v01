@@ -5,14 +5,14 @@
 	(uuid "54c54fe9-60d0-44c2-b1a9-5076e2961b29")
 	(paper "A4")
 	(lib_symbols
-		(symbol "murky-lib:MT41K128M16JT-125_K"
+		(symbol "MT41K128M16JT-125_K_1"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "IC"
-				(at 31.75 7.62 0)
+				(at 17.78 18.542 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -23,7 +23,7 @@
 				)
 			)
 			(property "Value" "MT41K128M16JT-125_K"
-				(at 31.75 5.08 0)
+				(at 9.398 14.224 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -33,8 +33,8 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "BGA96C80P9X16_800X1400X120"
-				(at 273.05 -177.47 0)
+			(property "Footprint" "murky-lib:BGA96C80P9X16_800X1400X120"
+				(at 105.918 -16.256 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -46,7 +46,7 @@
 				)
 			)
 			(property "Datasheet" "https://media-www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/2gb_1_35v_ddr3l.pdf?rev=4f46f8613ff2467c9f3428e9043d0098"
-				(at 31.75 -194.92 0)
+				(at 103.886 -9.398 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -128,10 +128,204 @@
 					(justify left top)
 				)
 			)
-			(symbol "MT41K128M16JT-125_K_1_1"
+			(symbol "MT41K128M16JT-125_K_1_0_1"
+				(polyline
+					(pts
+						(xy 13.97 1.016) (xy 13.97 -48.26)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.97 -52.07) (xy 13.97 -55.88)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.97 -53.34) (xy 13.97 -109.22)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.97 -113.03) (xy 13.97 -119.38)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.97 -124.46) (xy 13.97 -142.24)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 25.4 -57.15) (xy 25.4 -57.15)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 25.4 -58.42) (xy 25.4 -58.42)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 25.4 -71.12) (xy 25.4 -71.12)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 25.4 -77.47) (xy 25.4 -77.47)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 26.67 -58.42) (xy 26.67 -58.42)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 26.67 -58.42) (xy 26.67 -58.42)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 26.67 -116.84) (xy 26.67 -116.84)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 27.94 -116.84) (xy 27.94 -116.84)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 30.48 1.27) (xy 30.48 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 30.48 1.27) (xy 30.48 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 30.734 1.27) (xy 30.734 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MT41K128M16JT-125_K_1_1_1"
 				(rectangle
-					(start 5.08 2.54)
-					(end 30.48 -121.92)
+					(start 5.08 3.81)
+					(end 35.56 -151.13)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -140,8 +334,108 @@
 						(type background)
 					)
 				)
+				(polyline
+					(pts
+						(xy 25.654 -8.382) (xy 25.654 -51.816)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 27.94 -57.15) (xy 27.94 -116.84)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 29.21 -127) (xy 29.21 -142.24)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "Power"
+					(at 15.24 -23.114 900)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "Ground"
+					(at 15.494 -76.454 900)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "Reference"
+					(at 15.494 -116.332 900)
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(text "Command"
+					(at 15.494 -132.588 900)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "Data Interface"
+					(at 26.416 -89.408 900)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "Address"
+					(at 27.178 -20.32 900)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "Reserved"
+					(at 27.432 -134.366 900)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "Clock"
+					(at 29.464 -1.524 900)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
 				(pin passive line
-					(at 228.6 -170.18 0)
+					(at 0 -26.67 0)
 					(length 5.08)
 					(name "VDDQ_1"
 						(effects
@@ -159,7 +453,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -3.81 0)
+					(at 40.64 -82.55 180)
 					(length 5.08)
 					(name "DQ13"
 						(effects
@@ -177,7 +471,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -6.35 0)
+					(at 40.64 -77.47 180)
 					(length 5.08)
 					(name "DQ15"
 						(effects
@@ -195,7 +489,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -8.89 0)
+					(at 40.64 -85.09 180)
 					(length 5.08)
 					(name "DQ12"
 						(effects
@@ -213,7 +507,7 @@
 					)
 				)
 				(pin passive line
-					(at 228.6 -173.99 0)
+					(at 0 -29.21 0)
 					(length 5.08)
 					(name "VDDQ_2"
 						(effects
@@ -231,7 +525,7 @@
 					)
 				)
 				(pin passive line
-					(at 256.54 -170.18 0)
+					(at 0 -53.34 0)
 					(length 5.08)
 					(name "VSS_1"
 						(effects
@@ -249,7 +543,7 @@
 					)
 				)
 				(pin passive line
-					(at 285.75 -170.18 0)
+					(at 0 -87.63 0)
 					(length 5.08)
 					(name "VSSQ_1"
 						(effects
@@ -267,7 +561,7 @@
 					)
 				)
 				(pin passive line
-					(at 207.01 -170.18 0)
+					(at 0 0 0)
 					(length 5.08)
 					(name "VDD_1"
 						(effects
@@ -285,7 +579,7 @@
 					)
 				)
 				(pin passive line
-					(at 256.54 -173.99 0)
+					(at 0 -55.88 0)
 					(length 5.08)
 					(name "VSS_2"
 						(effects
@@ -303,7 +597,7 @@
 					)
 				)
 				(pin passive line
-					(at 0 -22.86 0)
+					(at 40.64 -71.12 180)
 					(length 5.08)
 					(name "UDQS#"
 						(effects
@@ -321,7 +615,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -26.67 0)
+					(at 40.64 -80.01 180)
 					(length 5.08)
 					(name "DQ14"
 						(effects
@@ -339,7 +633,7 @@
 					)
 				)
 				(pin passive line
-					(at 285.75 -173.99 0)
+					(at 0 -90.17 0)
 					(length 5.08)
 					(name "VSSQ_2"
 						(effects
@@ -357,7 +651,7 @@
 					)
 				)
 				(pin passive line
-					(at 228.6 -177.8 0)
+					(at 0 -31.75 0)
 					(length 5.08)
 					(name "VDDQ_3"
 						(effects
@@ -375,7 +669,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -34.29 0)
+					(at 40.64 -87.63 180)
 					(length 5.08)
 					(name "DQ11"
 						(effects
@@ -393,7 +687,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -36.83 0)
+					(at 40.64 -92.71 180)
 					(length 5.08)
 					(name "DQ9"
 						(effects
@@ -411,7 +705,7 @@
 					)
 				)
 				(pin passive line
-					(at 0 -38.1 0)
+					(at 40.64 -68.58 180)
 					(length 5.08)
 					(name "UDQS"
 						(effects
@@ -429,7 +723,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -41.91 0)
+					(at 40.64 -90.17 180)
 					(length 5.08)
 					(name "DQ10"
 						(effects
@@ -447,7 +741,7 @@
 					)
 				)
 				(pin passive line
-					(at 228.6 -181.61 0)
+					(at 0 -34.29 0)
 					(length 5.08)
 					(name "VDDQ_4"
 						(effects
@@ -465,7 +759,7 @@
 					)
 				)
 				(pin passive line
-					(at 285.75 -177.8 0)
+					(at 0 -92.71 0)
 					(length 5.08)
 					(name "VSSQ_3"
 						(effects
@@ -483,7 +777,7 @@
 					)
 				)
 				(pin passive line
-					(at 228.6 -185.42 0)
+					(at 0 -36.83 0)
 					(length 5.08)
 					(name "VDDQ_5"
 						(effects
@@ -501,7 +795,7 @@
 					)
 				)
 				(pin passive line
-					(at 0 -50.8 0)
+					(at 40.64 -66.04 180)
 					(length 5.08)
 					(name "UDM"
 						(effects
@@ -519,7 +813,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -54.61 0)
+					(at 40.64 -95.25 180)
 					(length 5.08)
 					(name "DQ8"
 						(effects
@@ -537,7 +831,7 @@
 					)
 				)
 				(pin passive line
-					(at 285.75 -181.61 0)
+					(at 0 -95.25 0)
 					(length 5.08)
 					(name "VSSQ_4"
 						(effects
@@ -555,7 +849,7 @@
 					)
 				)
 				(pin passive line
-					(at 207.01 -172.72 0)
+					(at 0 -2.54 0)
 					(length 5.08)
 					(name "VDD_2"
 						(effects
@@ -573,7 +867,7 @@
 					)
 				)
 				(pin passive line
-					(at 256.54 -179.07 0)
+					(at 0 -58.42 0)
 					(length 5.08)
 					(name "VSS_3"
 						(effects
@@ -591,7 +885,7 @@
 					)
 				)
 				(pin passive line
-					(at 285.75 -185.42 0)
+					(at 0 -97.79 0)
 					(length 5.08)
 					(name "VSSQ_5"
 						(effects
@@ -609,7 +903,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -67.31 0)
+					(at 40.64 -115.57 180)
 					(length 5.08)
 					(name "DQ0"
 						(effects
@@ -627,7 +921,7 @@
 					)
 				)
 				(pin passive line
-					(at 0 -68.58 0)
+					(at 40.64 -63.5 180)
 					(length 5.08)
 					(name "LDM"
 						(effects
@@ -645,7 +939,7 @@
 					)
 				)
 				(pin passive line
-					(at 285.75 -189.23 0)
+					(at 0 -100.33 0)
 					(length 5.08)
 					(name "VSSQ_6"
 						(effects
@@ -663,7 +957,7 @@
 					)
 				)
 				(pin passive line
-					(at 228.6 -189.23 0)
+					(at 0 -39.37 0)
 					(length 5.08)
 					(name "VDDQ_6"
 						(effects
@@ -681,7 +975,7 @@
 					)
 				)
 				(pin passive line
-					(at 228.6 -191.77 0)
+					(at 0 -41.91 0)
 					(length 5.08)
 					(name "VDDQ_7"
 						(effects
@@ -699,7 +993,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -80.01 0)
+					(at 40.64 -110.49 180)
 					(length 5.08)
 					(name "DQ2"
 						(effects
@@ -717,7 +1011,7 @@
 					)
 				)
 				(pin passive line
-					(at 0 -81.28 0)
+					(at 40.64 -60.96 180)
 					(length 5.08)
 					(name "LDQS"
 						(effects
@@ -735,7 +1029,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -85.09 0)
+					(at 40.64 -113.03 180)
 					(length 5.08)
 					(name "DQ1"
 						(effects
@@ -753,7 +1047,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -87.63 0)
+					(at 40.64 -107.95 180)
 					(length 5.08)
 					(name "DQ3"
 						(effects
@@ -771,7 +1065,7 @@
 					)
 				)
 				(pin passive line
-					(at 285.75 -193.04 0)
+					(at 0 -102.87 0)
 					(length 5.08)
 					(name "VSSQ_7"
 						(effects
@@ -789,7 +1083,7 @@
 					)
 				)
 				(pin passive line
-					(at 285.75 -195.58 0)
+					(at 0 -105.41 0)
 					(length 5.08)
 					(name "VSSQ_8"
 						(effects
@@ -807,7 +1101,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -95.25 0)
+					(at 40.64 -100.33 180)
 					(length 5.08)
 					(name "DQ6"
 						(effects
@@ -825,7 +1119,7 @@
 					)
 				)
 				(pin passive line
-					(at 0 -96.52 0)
+					(at 40.64 -58.42 180)
 					(length 5.08)
 					(name "LDQS#"
 						(effects
@@ -843,7 +1137,7 @@
 					)
 				)
 				(pin passive line
-					(at 207.01 -176.53 0)
+					(at 0 -5.08 0)
 					(length 5.08)
 					(name "VDD_3"
 						(effects
@@ -861,7 +1155,7 @@
 					)
 				)
 				(pin passive line
-					(at 256.54 -182.88 0)
+					(at 0 -60.96 0)
 					(length 5.08)
 					(name "VSS_4"
 						(effects
@@ -879,7 +1173,7 @@
 					)
 				)
 				(pin passive line
-					(at 285.75 -198.12 0)
+					(at 0 -107.95 0)
 					(length 5.08)
 					(name "VSSQ_9"
 						(effects
@@ -897,7 +1191,7 @@
 					)
 				)
 				(pin passive line
-					(at 312.42 -173.99 0)
+					(at 0 -116.84 0)
 					(length 5.08)
 					(name "VREFDQ"
 						(effects
@@ -915,7 +1209,7 @@
 					)
 				)
 				(pin passive line
-					(at 228.6 -194.31 0)
+					(at 0 -44.45 0)
 					(length 5.08)
 					(name "VDDQ_8"
 						(effects
@@ -933,7 +1227,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -113.03 0)
+					(at 40.64 -105.41 180)
 					(length 5.08)
 					(name "DQ4"
 						(effects
@@ -951,7 +1245,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -115.57 0)
+					(at 40.64 -97.79 180)
 					(length 5.08)
 					(name "DQ7"
 						(effects
@@ -969,7 +1263,7 @@
 					)
 				)
 				(pin passive line
-					(at 187.96 -118.11 0)
+					(at 40.64 -102.87 180)
 					(length 5.08)
 					(name "DQ5"
 						(effects
@@ -987,7 +1281,7 @@
 					)
 				)
 				(pin passive line
-					(at 228.6 -196.85 0)
+					(at 0 -46.99 0)
 					(length 5.08)
 					(name "VDDQ_9"
 						(effects
@@ -1005,7 +1299,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 0 180)
+					(at 40.64 -128.27 180)
 					(length 5.08)
 					(name "NC_1"
 						(effects
@@ -1023,7 +1317,7 @@
 					)
 				)
 				(pin passive line
-					(at 256.54 -186.69 0)
+					(at 0 -63.5 0)
 					(length 5.08)
 					(name "VSS_5"
 						(effects
@@ -1041,7 +1335,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -5.08 180)
+					(at 0 -138.43 0)
 					(length 5.08)
 					(name "RAS#"
 						(effects
@@ -1059,7 +1353,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -7.62 180)
+					(at 40.64 -2.54 180)
 					(length 5.08)
 					(name "CK"
 						(effects
@@ -1077,7 +1371,7 @@
 					)
 				)
 				(pin passive line
-					(at 256.54 -190.5 0)
+					(at 0 -66.04 0)
 					(length 5.08)
 					(name "VSS_6"
 						(effects
@@ -1095,7 +1389,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -12.7 180)
+					(at 40.64 -130.81 180)
 					(length 5.08)
 					(name "NC_2"
 						(effects
@@ -1113,7 +1407,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -15.24 180)
+					(at 0 -125.73 0)
 					(length 5.08)
 					(name "ODT"
 						(effects
@@ -1131,7 +1425,7 @@
 					)
 				)
 				(pin passive line
-					(at 207.01 -180.34 0)
+					(at 0 -7.62 0)
 					(length 5.08)
 					(name "VDD_4"
 						(effects
@@ -1149,7 +1443,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -20.32 180)
+					(at 0 -135.89 0)
 					(length 5.08)
 					(name "CAS#"
 						(effects
@@ -1167,7 +1461,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -22.86 180)
+					(at 40.64 0 180)
 					(length 5.08)
 					(name "CK#"
 						(effects
@@ -1185,7 +1479,7 @@
 					)
 				)
 				(pin passive line
-					(at 207.01 -184.15 0)
+					(at 0 -10.16 0)
 					(length 5.08)
 					(name "VDD_5"
 						(effects
@@ -1203,7 +1497,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -27.94 180)
+					(at 0 -130.81 0)
 					(length 5.08)
 					(name "CKE"
 						(effects
@@ -1221,7 +1515,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -30.48 180)
+					(at 40.64 -133.35 180)
 					(length 5.08)
 					(name "NC_3"
 						(effects
@@ -1239,7 +1533,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -33.02 180)
+					(at 0 -140.97 0)
 					(length 5.08)
 					(name "CS#"
 						(effects
@@ -1257,7 +1551,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -35.56 180)
+					(at 0 -133.35 0)
 					(length 5.08)
 					(name "WE#"
 						(effects
@@ -1275,7 +1569,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -177.8 0)
+					(at 40.64 -34.29 180)
 					(length 5.08)
 					(name "A10/AP"
 						(effects
@@ -1293,7 +1587,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -40.64 180)
+					(at 0 -119.38 0)
 					(length 5.08)
 					(name "ZQ"
 						(effects
@@ -1311,7 +1605,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -43.18 180)
+					(at 40.64 -135.89 180)
 					(length 5.08)
 					(name "NC_4"
 						(effects
@@ -1329,7 +1623,7 @@
 					)
 				)
 				(pin passive line
-					(at 256.54 -195.58 0)
+					(at 0 -68.58 0)
 					(length 5.08)
 					(name "VSS_7"
 						(effects
@@ -1347,7 +1641,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -48.26 180)
+					(at 40.64 -45.72 180)
 					(length 5.08)
 					(name "BA0"
 						(effects
@@ -1365,7 +1659,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -50.8 180)
+					(at 40.64 -50.8 180)
 					(length 5.08)
 					(name "BA2"
 						(effects
@@ -1383,7 +1677,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -53.34 180)
+					(at 40.64 -138.43 180)
 					(length 5.08)
 					(name "NC_5"
 						(effects
@@ -1401,7 +1695,7 @@
 					)
 				)
 				(pin passive line
-					(at 312.42 -170.18 0)
+					(at 0 -114.3 0)
 					(length 5.08)
 					(name "VREFCA"
 						(effects
@@ -1419,7 +1713,7 @@
 					)
 				)
 				(pin passive line
-					(at 256.54 -200.66 0)
+					(at 0 -71.12 0)
 					(length 5.08)
 					(name "VSS_8"
 						(effects
@@ -1437,7 +1731,7 @@
 					)
 				)
 				(pin passive line
-					(at 207.01 -187.96 0)
+					(at 0 -12.7 0)
 					(length 5.08)
 					(name "VDD_6"
 						(effects
@@ -1455,7 +1749,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -201.93 0)
+					(at 40.64 -16.51 180)
 					(length 5.08)
 					(name "A3"
 						(effects
@@ -1473,7 +1767,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -213.36 0)
+					(at 40.64 -8.89 180)
 					(length 5.08)
 					(name "A0"
 						(effects
@@ -1491,7 +1785,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -172.72 0)
+					(at 40.64 -39.37 180)
 					(length 5.08)
 					(name "A12/BC#"
 						(effects
@@ -1509,7 +1803,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -71.12 180)
+					(at 40.64 -48.26 180)
 					(length 5.08)
 					(name "BA1"
 						(effects
@@ -1527,7 +1821,7 @@
 					)
 				)
 				(pin passive line
-					(at 207.01 -193.04 0)
+					(at 0 -15.24 0)
 					(length 5.08)
 					(name "VDD_7"
 						(effects
@@ -1545,7 +1839,7 @@
 					)
 				)
 				(pin passive line
-					(at 256.54 -205.74 0)
+					(at 0 -73.66 0)
 					(length 5.08)
 					(name "VSS_9"
 						(effects
@@ -1563,7 +1857,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -194.31 0)
+					(at 40.64 -21.59 180)
 					(length 5.08)
 					(name "A5"
 						(effects
@@ -1581,7 +1875,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -205.74 0)
+					(at 40.64 -13.97 180)
 					(length 5.08)
 					(name "A2"
 						(effects
@@ -1599,7 +1893,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -209.55 0)
+					(at 40.64 -11.43 180)
 					(length 5.08)
 					(name "A1"
 						(effects
@@ -1617,7 +1911,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -198.12 0)
+					(at 40.64 -19.05 180)
 					(length 5.08)
 					(name "A4"
 						(effects
@@ -1635,7 +1929,7 @@
 					)
 				)
 				(pin passive line
-					(at 256.54 -209.55 0)
+					(at 0 -76.2 0)
 					(length 5.08)
 					(name "VSS_10"
 						(effects
@@ -1653,7 +1947,7 @@
 					)
 				)
 				(pin passive line
-					(at 207.01 -196.85 0)
+					(at 0 -17.78 0)
 					(length 5.08)
 					(name "VDD_8"
 						(effects
@@ -1671,7 +1965,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -186.69 0)
+					(at 40.64 -26.67 180)
 					(length 5.08)
 					(name "A7"
 						(effects
@@ -1689,7 +1983,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -180.34 0)
+					(at 40.64 -31.75 180)
 					(length 5.08)
 					(name "A9"
 						(effects
@@ -1707,7 +2001,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -175.26 0)
+					(at 40.64 -36.83 180)
 					(length 5.08)
 					(name "A11"
 						(effects
@@ -1725,7 +2019,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -190.5 0)
+					(at 40.64 -24.13 180)
 					(length 5.08)
 					(name "A6"
 						(effects
@@ -1743,7 +2037,7 @@
 					)
 				)
 				(pin passive line
-					(at 207.01 -199.39 0)
+					(at 0 -20.32 0)
 					(length 5.08)
 					(name "VDD_9"
 						(effects
@@ -1761,7 +2055,7 @@
 					)
 				)
 				(pin passive line
-					(at 256.54 -213.36 0)
+					(at 0 -78.74 0)
 					(length 5.08)
 					(name "VSS_11"
 						(effects
@@ -1779,7 +2073,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -109.22 180)
+					(at 0 -128.27 0)
 					(length 5.08)
 					(name "RESET#"
 						(effects
@@ -1797,7 +2091,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -170.18 0)
+					(at 40.64 -41.91 180)
 					(length 5.08)
 					(name "A13"
 						(effects
@@ -1815,7 +2109,7 @@
 					)
 				)
 				(pin passive line
-					(at 35.56 -114.3 180)
+					(at 40.64 -140.97 180)
 					(length 5.08)
 					(name "NC_6"
 						(effects
@@ -1833,7 +2127,7 @@
 					)
 				)
 				(pin passive line
-					(at 182.88 -182.88 0)
+					(at 40.64 -29.21 180)
 					(length 5.08)
 					(name "A8"
 						(effects
@@ -1851,7 +2145,7 @@
 					)
 				)
 				(pin passive line
-					(at 256.54 -217.17 0)
+					(at 0 -81.28 0)
 					(length 5.08)
 					(name "VSS_12"
 						(effects
@@ -1873,8 +2167,9 @@
 		)
 	)
 	(symbol
+		(lib_name "MT41K128M16JT-125_K_1")
 		(lib_id "murky-lib:MT41K128M16JT-125_K")
-		(at 327.66 -181.61 0)
+		(at 93.98 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1883,9 +2178,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "c1222926-4563-45fc-8e81-2124da1fdd2a")
-		(property "Reference" "IC3"
-			(at 488.8865 -189.23 0)
+		(uuid "37e09c77-0b22-4bcc-9b06-01598d42adf7")
+		(property "Reference" "IC4"
+			(at 114.3 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1895,7 +2190,7 @@
 			)
 		)
 		(property "Value" "MT41K128M16JT-125_K"
-			(at 488.8865 -186.69 0)
+			(at 114.3 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1904,8 +2199,8 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA96C80P9X16_800X1400X120"
-			(at 600.71 -4.14 0)
+		(property "Footprint" "murky-lib:BGA96C80P9X16_800X1400X120"
+			(at 199.898 51.816 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1917,7 +2212,7 @@
 			)
 		)
 		(property "Datasheet" "https://media-www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/2gb_1_35v_ddr3l.pdf?rev=4f46f8613ff2467c9f3428e9043d0098"
-			(at 359.41 13.31 0)
+			(at 197.866 44.958 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1929,7 +2224,7 @@
 			)
 		)
 		(property "Description" "SDRAM - DDR3L Memory IC 2Gb (128M x 16) Parallel 800MHz 13.75ns 96-FBGA (8x14)"
-			(at 327.66 -181.61 0)
+			(at 93.98 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1940,7 +2235,7 @@
 			)
 		)
 		(property "Height" "1.2"
-			(at 359.41 213.31 0)
+			(at 125.73 430.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1952,7 +2247,7 @@
 			)
 		)
 		(property "Mouser Part Number" "340-135795-TRAY"
-			(at 359.41 313.31 0)
+			(at 125.73 530.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1964,7 +2259,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Micron/MT41K128M16JT-125K?qs=rrS6PyfT74fXNZ%252B5rdA1ug%3D%3D"
-			(at 359.41 413.31 0)
+			(at 125.73 630.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1976,7 +2271,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Micron"
-			(at 359.41 513.31 0)
+			(at 125.73 730.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1988,7 +2283,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "MT41K128M16JT-125:K"
-			(at 359.41 613.31 0)
+			(at 125.73 830.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1999,298 +2294,298 @@
 				(justify left top)
 			)
 		)
-		(pin "F9"
-			(uuid "1b67de04-18cc-45c0-a3de-8b281a72344a")
-		)
-		(pin "G2"
-			(uuid "983802ab-a9db-406f-9155-03d19888ab4b")
-		)
-		(pin "K3"
-			(uuid "6bc07740-0546-4d88-ad65-47a5fea712f5")
-		)
-		(pin "N7"
-			(uuid "a9e653ce-f77c-4d8f-b5b1-b47a55832134")
-		)
-		(pin "E2"
-			(uuid "e8fc6eb7-fd1a-4fa1-8e54-a4914b147eca")
-		)
-		(pin "N3"
-			(uuid "959d6793-54d8-49c8-a330-d3fac0339876")
-		)
-		(pin "T7"
-			(uuid "f83dce15-538c-46fb-b75c-ed60a1dcc229")
-		)
-		(pin "K8"
-			(uuid "db30325b-e011-4803-9937-df1e336c3e86")
-		)
-		(pin "R2"
-			(uuid "7e4f0e1e-3c98-4a1f-b855-6fb5dcdc325d")
-		)
-		(pin "T2"
-			(uuid "547617af-4701-4f15-9cc6-dc80a3cb5b48")
-		)
-		(pin "A1"
-			(uuid "1e24c4f6-7570-4d62-8a08-05193214e71a")
-		)
-		(pin "N2"
-			(uuid "aa61d480-cf9a-4b69-a962-2253dae6be2f")
-		)
-		(pin "J9"
-			(uuid "ba3043f2-7a71-4580-a04d-6506fa94d86d")
-		)
-		(pin "E7"
-			(uuid "49b64818-5ffb-40ec-9348-e3a70eb68402")
-		)
-		(pin "B7"
-			(uuid "dee799e2-31bd-47d4-942f-3157c97caea3")
-		)
-		(pin "E1"
-			(uuid "b2b7b8e6-ef05-452e-9365-0930c6cb40ab")
-		)
-		(pin "L3"
-			(uuid "c00c4ad0-0421-469f-91e2-ed318c84b328")
-		)
-		(pin "M1"
-			(uuid "50dfa82b-13d6-4777-adec-88a6c8b2b33b")
-		)
-		(pin "L8"
-			(uuid "47329c14-20b8-45c5-8f1e-1fc1c4f65d32")
-		)
-		(pin "H1"
-			(uuid "145069e1-c21d-4754-ad95-4ebb22d636ae")
-		)
-		(pin "M9"
-			(uuid "3372db5f-ecdf-4b25-ba5d-40ede8e62c6c")
-		)
-		(pin "F3"
-			(uuid "b0712d7a-a58d-45d7-a9f6-d53981b5d8b4")
-		)
-		(pin "T9"
-			(uuid "e1f737d4-7f8d-4132-8dbb-d5d0a6b75536")
-		)
-		(pin "P2"
-			(uuid "0464d3e8-d404-4788-b92b-77ea9dce87d6")
-		)
-		(pin "F2"
-			(uuid "caebfff0-1ae0-471b-b7fa-1053860e115e")
-		)
-		(pin "B3"
-			(uuid "2cdbc58a-e1d1-4dc8-a607-5bb7afcd76ff")
-		)
-		(pin "K9"
-			(uuid "39f6e650-4db0-44da-ae18-06ea09327e7e")
-		)
-		(pin "A8"
-			(uuid "3fdbe1ab-5391-40a8-8b96-fea1553eb451")
-		)
-		(pin "L9"
-			(uuid "153c8b06-317d-4e00-a9ad-4847b1ce7271")
-		)
-		(pin "P3"
-			(uuid "eef22a3c-5799-420b-8fea-106b09979eaf")
-		)
-		(pin "J1"
-			(uuid "3a446d0d-82e0-4736-a0a2-0b103e35e8ff")
-		)
-		(pin "A3"
-			(uuid "133eef9d-8b55-4895-af7d-31f8a0ecdd1a")
-		)
-		(pin "F1"
-			(uuid "7ccfcbd6-31ff-4c72-b54c-4bce5339d159")
-		)
-		(pin "M2"
-			(uuid "8d769d79-d6bc-43d9-bfdb-70909598cf54")
-		)
-		(pin "J8"
-			(uuid "9f587984-a25f-459f-83de-efe51969996b")
-		)
-		(pin "C1"
-			(uuid "31229065-b91d-45e3-b47b-bbfb7456431d")
-		)
-		(pin "F7"
-			(uuid "d8464455-79e1-47c4-a643-3104f7e61b42")
-		)
-		(pin "C8"
-			(uuid "ec281fcb-5708-47d0-a81d-29a04cbdaca9")
-		)
-		(pin "A9"
-			(uuid "d9c78cb1-d00a-4460-ad32-edaf24cb1b1d")
-		)
-		(pin "L2"
-			(uuid "6eb1418d-f946-4c6e-84a4-5d5f4a5267be")
-		)
-		(pin "A7"
-			(uuid "21e9e13a-d488-412e-a9a1-691e1c37e2bb")
-		)
-		(pin "G3"
-			(uuid "e8d4861b-df75-4a9c-8e42-03c6b78d86c2")
-		)
-		(pin "C9"
-			(uuid "40dd049c-f510-41f0-af1d-e4f95135f11d")
-		)
-		(pin "E8"
-			(uuid "c22b2228-99ab-469c-b5e8-f0fd7ac24390")
-		)
-		(pin "C7"
-			(uuid "35bf85ad-53b0-4376-aace-acee4e65bf46")
-		)
-		(pin "J7"
-			(uuid "6201e8c2-9f34-410d-bdee-03ada073d2df")
-		)
-		(pin "A2"
-			(uuid "17ab3a48-9e57-4a70-a8a1-5b54b17a23d0")
-		)
-		(pin "J3"
-			(uuid "5e35030b-2730-4270-8a8b-11370643edd4")
-		)
-		(pin "D1"
-			(uuid "5a781477-38ba-4573-9a86-08320a843770")
-		)
-		(pin "R9"
-			(uuid "d00ef3e8-e2c2-4b65-b6b0-9ece36122bc5")
-		)
-		(pin "P9"
-			(uuid "9ed10c6b-e8cd-4329-896a-b92b26199adb")
-		)
-		(pin "P1"
-			(uuid "833c2e1e-cf6e-46f9-a50a-74a9575e9988")
-		)
 		(pin "T1"
-			(uuid "f140d4bb-8ffa-4167-b414-cf8fcc85cdae")
-		)
-		(pin "N9"
-			(uuid "f631b01a-7c7f-4aa8-a8a8-0c15a1f917d9")
-		)
-		(pin "P7"
-			(uuid "ac22054e-c512-45d1-936b-7c67dcfda43f")
-		)
-		(pin "K2"
-			(uuid "d457177f-aa48-4b28-a4d8-94ed290b879a")
-		)
-		(pin "R1"
-			(uuid "f6cc0b44-2b7d-4c0d-9204-7857c54cb0de")
-		)
-		(pin "G1"
-			(uuid "64075aab-649d-4ee0-90c5-e2f914c12c2b")
-		)
-		(pin "C2"
-			(uuid "cb086bcb-b187-4b53-a79b-9ebef4b65cc5")
-		)
-		(pin "R8"
-			(uuid "12715538-1a45-40fa-ab8a-39b36244416c")
-		)
-		(pin "B8"
-			(uuid "33e02ee6-4274-476c-9b63-076f6e66f85b")
-		)
-		(pin "M3"
-			(uuid "ff2900b7-e3e5-4b1d-b74d-835f42e3ffdd")
+			(uuid "ff4baac2-7945-48dd-a3b7-f60dc4df9b50")
 		)
 		(pin "T8"
-			(uuid "386c6416-e625-44a2-bfd5-859df829f870")
-		)
-		(pin "H7"
-			(uuid "b45b24ed-a153-45b7-b6ba-76151957a8ad")
+			(uuid "078a3fed-8cf3-4352-b168-6ce4ad1e04b4")
 		)
 		(pin "D8"
-			(uuid "6dd69b83-3cb3-415b-8197-a7015e8df974")
+			(uuid "aa0d6671-8c2a-4ccf-a76d-b80f227a9cf5")
 		)
-		(pin "E9"
-			(uuid "f6c5450b-10e0-48a9-8360-13cc03d749f0")
-		)
-		(pin "F8"
-			(uuid "526619e9-1850-4d45-8c2a-62dfd99f9d7a")
-		)
-		(pin "D7"
-			(uuid "159fa94f-b30f-431f-ab4e-1ebe94a8113d")
-		)
-		(pin "R3"
-			(uuid "99ccef4e-604a-4d5a-b99f-0a2dbc3ce2c6")
-		)
-		(pin "T3"
-			(uuid "99efef5f-2947-42ad-a517-5777581d60b0")
-		)
-		(pin "L1"
-			(uuid "4aed9332-f5ba-4c48-9afc-f5ddbb83a1b9")
-		)
-		(pin "M7"
-			(uuid "8523502d-9c4c-45eb-9dbb-a1ddc5892a9c")
-		)
-		(pin "N1"
-			(uuid "0ea9d30a-ffbf-4ac3-aa61-e365d8f1d7f7")
-		)
-		(pin "G8"
-			(uuid "71360f52-4ceb-45a3-aaf4-09a0a5325953")
-		)
-		(pin "H3"
-			(uuid "fbaa53ff-2037-4371-93f9-1c3313ee0436")
-		)
-		(pin "J2"
-			(uuid "d685ec40-35fd-4f55-b77c-f4ec116e90f8")
-		)
-		(pin "R7"
-			(uuid "bef3e1bd-1a26-468b-a722-47844b039a30")
-		)
-		(pin "P8"
-			(uuid "9d487c81-5fc8-4d59-9e64-0fc6b21035cf")
-		)
-		(pin "L7"
-			(uuid "9ea11cac-ed72-44a2-94b1-ad0cbad10304")
-		)
-		(pin "B9"
-			(uuid "8a0efbef-ee83-48b0-9101-fcdc6a270912")
-		)
-		(pin "E3"
-			(uuid "9ba17a83-f156-4525-8b05-bc4bbdd22f64")
-		)
-		(pin "G7"
-			(uuid "57c2e070-c6ff-4236-b2b2-1fbcf1186f5b")
-		)
-		(pin "D9"
-			(uuid "6db38d1e-0754-4288-ad85-5d1bde63ad2d")
-		)
-		(pin "M8"
-			(uuid "adb6f73c-f8b5-45c0-8210-97d1ca508d22")
-		)
-		(pin "K1"
-			(uuid "6346849c-1ddf-426f-afec-b55dbc4d86ff")
-		)
-		(pin "D3"
-			(uuid "cca73b8e-a184-4143-9917-f86acad9b2e9")
-		)
-		(pin "G9"
-			(uuid "4d98ea6b-876e-492d-927a-63d6fd979330")
-		)
-		(pin "N8"
-			(uuid "c9f947a4-7d0c-4239-a351-e3982675993f")
-		)
-		(pin "B2"
-			(uuid "9689bb72-611a-433b-9fd5-33e36034bed1")
-		)
-		(pin "H2"
-			(uuid "9a03aead-e984-4831-813e-08ee93b0eb92")
+		(pin "K8"
+			(uuid "c49e084d-d081-45dc-8535-6734b8d93912")
 		)
 		(pin "K7"
-			(uuid "925944f2-e243-4912-a1f2-cf802908f0d1")
+			(uuid "781d8832-daf8-46c6-a73b-ac0a8c7b4ece")
 		)
-		(pin "B1"
-			(uuid "1e759ffb-690d-484f-a3f2-ef743437ef58")
+		(pin "K2"
+			(uuid "2cf2c22c-7ce0-4bf0-ba89-d4583f48ebc9")
 		)
-		(pin "C3"
-			(uuid "4602f6a0-0e3c-4a60-9c5b-1689b4d21509")
+		(pin "K3"
+			(uuid "ff95101f-30d7-437e-b7bf-702f8c277125")
 		)
-		(pin "H9"
-			(uuid "51cbfc5f-3134-4edd-91ac-cf7ce8a4c297")
+		(pin "G2"
+			(uuid "2bd4ada3-16d6-413c-a20c-77cadbbd077b")
 		)
-		(pin "D2"
-			(uuid "5b1b722e-2ee3-42a8-b8be-bb42e1cd4e1f")
+		(pin "N9"
+			(uuid "7030b38b-935e-42f3-81cb-ac4850ddd28e")
+		)
+		(pin "B9"
+			(uuid "39add0a4-3584-4728-8416-a2a6f6bc379c")
+		)
+		(pin "C2"
+			(uuid "4705d1bb-2d9d-4cc4-a75b-d56a249a69f6")
+		)
+		(pin "T9"
+			(uuid "96bbe308-30aa-4951-a258-3f9be8f23498")
+		)
+		(pin "F8"
+			(uuid "0b8f8b74-eafe-439c-8b9f-ea1d1f056a98")
+		)
+		(pin "J1"
+			(uuid "1a594ddd-1bf6-4c02-99a3-539cece6f3db")
+		)
+		(pin "L9"
+			(uuid "2a746bd2-8795-410b-97a3-9432958aa97f")
+		)
+		(pin "A2"
+			(uuid "a890608a-ef8a-4356-8f94-e34de9bbf73c")
+		)
+		(pin "A1"
+			(uuid "cf467c4b-e7d4-43c7-9d7f-b8923b7d712e")
+		)
+		(pin "E1"
+			(uuid "d2d000d0-e412-4c31-8b05-d20f791288ec")
+		)
+		(pin "J3"
+			(uuid "fe50aa37-6f43-40d8-9de9-0c3c4c2da98f")
+		)
+		(pin "R3"
+			(uuid "0fb65af0-54a8-4545-b77e-a13c68c2597a")
+		)
+		(pin "M9"
+			(uuid "e3c5f99f-85f0-46ab-9819-a66e9bc03f9a")
+		)
+		(pin "A9"
+			(uuid "2bc62b25-322d-4d9b-b31d-4e6720d92774")
+		)
+		(pin "E3"
+			(uuid "e8fbda9d-04db-4c03-ad04-1b579be15b59")
+		)
+		(pin "K1"
+			(uuid "b9794043-3cd7-4db6-b7ad-73fcdf185ba8")
+		)
+		(pin "R1"
+			(uuid "b06b61c4-56a2-4405-b7d8-488baeb5d39b")
+		)
+		(pin "L7"
+			(uuid "14475309-ca36-4f0a-9338-b30f691130d7")
+		)
+		(pin "A3"
+			(uuid "ff8f5967-2f59-44a0-9bdd-217bf6fb6f3a")
+		)
+		(pin "R7"
+			(uuid "2deb8d74-d738-4f62-9cb6-0d107ac57e06")
+		)
+		(pin "J8"
+			(uuid "c452d3be-58ef-44e8-8076-9801472e234d")
+		)
+		(pin "E8"
+			(uuid "a5407734-50be-4116-927f-b87312e2fb07")
+		)
+		(pin "L8"
+			(uuid "f6099fa8-2826-4ca0-8bc5-afedb9fe5cad")
+		)
+		(pin "H3"
+			(uuid "37022d93-72a0-4a31-aec1-f823e2ea7fa4")
+		)
+		(pin "F2"
+			(uuid "30d2d58c-92d8-4e8d-8e3b-29aa02f53f6d")
+		)
+		(pin "M2"
+			(uuid "686e568d-9fe1-45aa-a527-35fbe35956bc")
+		)
+		(pin "R8"
+			(uuid "5be93c6a-a74a-4299-bd76-06a37fe87158")
+		)
+		(pin "F3"
+			(uuid "1800e4b8-ed21-4d18-8fe9-267a4c1f357c")
+		)
+		(pin "T3"
+			(uuid "8a02d599-c905-439b-a8af-e74eecad4fc5")
+		)
+		(pin "T7"
+			(uuid "175a1712-3fcb-442f-963b-25a6dd6a9491")
 		)
 		(pin "H8"
-			(uuid "2b3f6d5f-1892-4f8c-8d67-633d88477f42")
+			(uuid "b3eb5052-c6f2-403d-b071-ad8f23afb070")
+		)
+		(pin "D9"
+			(uuid "ac57ebf8-4ac7-4417-a12e-e68f16cff2af")
+		)
+		(pin "M1"
+			(uuid "6e57cc99-1f0a-4108-9d21-515c4f5e6654")
+		)
+		(pin "H1"
+			(uuid "06a842e1-8c43-4673-aa44-d9f660228199")
+		)
+		(pin "E7"
+			(uuid "136ff7e5-f1f0-48bf-a3e6-aae2f93004ac")
+		)
+		(pin "C8"
+			(uuid "672f8106-84b1-4e2b-9128-a52790f512e8")
+		)
+		(pin "J9"
+			(uuid "52eeff6e-846a-41aa-823b-e9d4290d580e")
+		)
+		(pin "A7"
+			(uuid "53d7d792-7dd3-46d0-9a4e-e30c8e2059c0")
+		)
+		(pin "E2"
+			(uuid "0dafd7be-e4b0-44cc-846d-29eb29f89983")
+		)
+		(pin "J2"
+			(uuid "ad1e6187-58d2-4c60-af79-4cfe37edd664")
+		)
+		(pin "F1"
+			(uuid "3cb179aa-2f45-4c6a-b65e-c022bffe2747")
+		)
+		(pin "E9"
+			(uuid "941176f2-c977-40c2-bedc-3fb2434068eb")
+		)
+		(pin "P3"
+			(uuid "64390439-67e3-40c5-869e-85d861807f10")
+		)
+		(pin "P1"
+			(uuid "36686472-f4fa-4cf9-b953-0c5b395caad8")
+		)
+		(pin "N1"
+			(uuid "346c52be-dbc5-4b0f-90c0-7712f7e54ae5")
+		)
+		(pin "H9"
+			(uuid "20f9d4d5-172b-4680-9a64-2a1971bb3c18")
+		)
+		(pin "H7"
+			(uuid "4c3b23c7-339e-4ae6-8efc-3cd211db6116")
+		)
+		(pin "B1"
+			(uuid "334375e3-137c-49e2-a3dd-76359e1fb7e9")
+		)
+		(pin "P9"
+			(uuid "5dbc46bc-79a1-46ec-87fc-05fd3bbc3205")
+		)
+		(pin "N3"
+			(uuid "ee78cbf3-0fda-497f-bb6d-8b475dd36c63")
+		)
+		(pin "N8"
+			(uuid "c1cae682-f590-4ef3-9dc7-b3efb72305bb")
+		)
+		(pin "B2"
+			(uuid "2b5780c0-7599-4d13-bfc6-7fc3c7bb7850")
+		)
+		(pin "C3"
+			(uuid "85b1f1a5-17a1-4b15-9470-48f281d90bc5")
+		)
+		(pin "K9"
+			(uuid "08689204-6993-4acc-83b5-516094ce29d6")
+		)
+		(pin "B7"
+			(uuid "db025fee-ce2e-4a25-95ae-246e5f7d3993")
+		)
+		(pin "B3"
+			(uuid "9b751085-9ac7-4bb2-86e9-737a4bf90ef5")
+		)
+		(pin "J7"
+			(uuid "e078c89c-6c60-4481-9887-979b4d896786")
+		)
+		(pin "R2"
+			(uuid "5978184e-c29b-437a-9010-939c0f2352f6")
+		)
+		(pin "A8"
+			(uuid "360b26bc-b22c-41ac-a1cc-28d0914f6486")
+		)
+		(pin "R9"
+			(uuid "8898806c-fa16-494a-b2ce-9307a0616bb4")
+		)
+		(pin "T2"
+			(uuid "4950ce29-08e8-456f-98a6-e46635e20514")
+		)
+		(pin "L1"
+			(uuid "63dfaa17-4914-4853-b110-f64d1f799d3f")
+		)
+		(pin "D1"
+			(uuid "7c0c0946-a491-43c2-8adb-5ef17f69ddc0")
+		)
+		(pin "G9"
+			(uuid "4e4ff82e-6427-4269-addc-b1bddfc31015")
+		)
+		(pin "N7"
+			(uuid "9e0f21ec-68e2-4e34-96f5-fd76d7172c20")
+		)
+		(pin "H2"
+			(uuid "3bd322bc-8586-4f5a-bad2-bacafe52805b")
+		)
+		(pin "B8"
+			(uuid "b5b021a6-c66f-42f1-891d-a03c4db238a5")
+		)
+		(pin "C1"
+			(uuid "dbc81e48-f368-4e3c-abda-05614b5f147a")
+		)
+		(pin "G3"
+			(uuid "651b5db6-7f76-4b95-8c0e-b80af008fbfe")
+		)
+		(pin "G8"
+			(uuid "f2fbc7b2-a825-4e45-a9be-e99b6f32b1eb")
+		)
+		(pin "D3"
+			(uuid "35a59757-b932-4c00-8760-8b0cbefefc35")
+		)
+		(pin "C7"
+			(uuid "223cd228-0436-4c0a-93f4-ffa5b5cb3f0f")
+		)
+		(pin "M8"
+			(uuid "7a28b9ab-89d5-487d-bfb9-ef29ba9686a8")
+		)
+		(pin "M7"
+			(uuid "b7218592-de76-4d5c-93cc-3f0f6bcdf488")
+		)
+		(pin "D7"
+			(uuid "aac81f6c-753c-4453-93c4-34984bf493ba")
+		)
+		(pin "P2"
+			(uuid "24396825-b751-4247-9c75-20b25635c4d4")
+		)
+		(pin "D2"
+			(uuid "f3193f05-5955-47f8-8cb7-e09a2245cd18")
+		)
+		(pin "P8"
+			(uuid "9544fc06-c389-4c73-9f8a-732eddcf9f96")
+		)
+		(pin "G1"
+			(uuid "177e85f4-8c40-4672-8766-7d0514758fea")
+		)
+		(pin "N2"
+			(uuid "8cede248-aefc-445b-8a1a-6e412e2e20a3")
+		)
+		(pin "F9"
+			(uuid "3dd955db-9323-4555-a3ff-b16f2948ae62")
+		)
+		(pin "G7"
+			(uuid "4fb9df41-ae95-4134-9615-597e82072f7a")
+		)
+		(pin "L2"
+			(uuid "c0422946-9a85-4aeb-9621-d170e0bd9fc4")
+		)
+		(pin "C9"
+			(uuid "3603ce85-242e-4c0b-babc-b1d9584df45d")
+		)
+		(pin "L3"
+			(uuid "79603584-fc03-4cda-bbbc-039a935d7cca")
+		)
+		(pin "F7"
+			(uuid "46414487-e66f-457d-a512-b5c220119c35")
+		)
+		(pin "M3"
+			(uuid "572a9ba0-2191-43aa-b2ae-16e215200d96")
+		)
+		(pin "P7"
+			(uuid "6e7b4017-cbd0-484e-9fc5-78daa09affef")
 		)
 		(instances
 			(project "v0.1"
 				(path "/b913df20-761e-41f4-8775-5de3673cbc2b/20cdcbe8-161f-4598-94a9-5dba2f70f220"
-					(reference "IC3")
+					(reference "IC4")
 					(unit 1)
 				)
 			)

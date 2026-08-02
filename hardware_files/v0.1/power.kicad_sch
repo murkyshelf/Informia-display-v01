@@ -12923,6 +12923,18 @@
 		)
 		(uuid "2c9481e4-308c-4138-9627-b77feb763d38")
 	)
+	(rectangle
+		(start 159.385 43.815)
+		(end 259.08 141.605)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "32f95465-22fb-4fa9-9ebf-3d2d5326a92a")
+	)
 	(bezier
 		(pts
 			(xy 272.415 22.987) (xy 273.05 23.622) (xy 272.415 24.257) (xy 273.05 24.892)
@@ -12935,6 +12947,18 @@
 			(type none)
 		)
 		(uuid "8bea202d-a6fc-4179-a80a-dd79a5c6ee8b")
+	)
+	(rectangle
+		(start 86.36 106.045)
+		(end 148.59 175.895)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "ace72cb4-bde2-44e0-925f-36dfb66f4ce9")
 	)
 	(bezier
 		(pts
@@ -13008,6 +13032,16 @@
 		)
 		(uuid "0658fa8b-a965-430b-985c-5d70fb65ce09")
 	)
+	(text "LDO\n"
+		(exclude_from_sim no)
+		(at 89.408 104.648 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "12755fcc-4caa-47c3-9368-d4267ebbe34a")
+	)
 	(text "+5v"
 		(exclude_from_sim no)
 		(at 253.365 21.59 0)
@@ -13017,6 +13051,16 @@
 			)
 		)
 		(uuid "23d872c5-41c0-4060-bf2d-5d9cbbcbce81")
+	)
+	(text "BUCK\n"
+		(exclude_from_sim no)
+		(at 163.83 42.164 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "3efcde73-b98c-4708-bbbd-d270e814653d")
 	)
 	(text "+3v3\n"
 		(exclude_from_sim no)
@@ -17638,7 +17682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA285C50P18X18_1000X1000X130"
+		(property "Footprint" "murky-lib:BGA285C50P18X18_1000X1000X130"
 			(at 39.878 11.43 0)
 			(hide yes)
 			(show_name no)
@@ -21323,7 +21367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA285C50P18X18_1000X1000X130"
+		(property "Footprint" "murky-lib:BGA285C50P18X18_1000X1000X130"
 			(at 108.458 19.05 0)
 			(hide yes)
 			(show_name no)

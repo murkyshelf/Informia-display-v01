@@ -1,4 +1,4 @@
 (fp_lib_table
 	(version 7)
-	(lib (name "murky-lib") (type "KiCad") (uri "${KIPRJMOD}/lib/murky/footprints.pretty") (options "") (descr ""))
+	(lib (name "murky-lib") (type "KiCad") (uri "../../lib/murky/footprints.pretty") (options "") (descr ""))
 )

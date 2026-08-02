@@ -2768,7 +2768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFP50P2200X2200X160-144N"
+		(property "Footprint" "murky-lib:QFP50P2200X2200X160-144N"
 			(at 187.96 143.18 0)
 			(hide yes)
 			(show_name no)

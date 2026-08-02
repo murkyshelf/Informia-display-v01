@@ -210,16 +210,6 @@
 		)
 		(uuid "63b3858f-853d-4803-a254-de3492c7a704")
 	)
-	(text "POWER\n"
-		(exclude_from_sim no)
-		(at 254 62.484 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "6ba4d6e8-b589-4476-8b6d-8f3fbbeb9be2")
-	)
 	(text "ddr3l ram\n"
 		(exclude_from_sim no)
 		(at 79.248 93.472 0)
@@ -507,7 +497,7 @@
 	)
 	(sheet
 		(at 234.95 73.025)
-		(size 38.1 21.59)
+		(size 25.4 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -533,7 +523,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 234.95 95.1996 0)
+			(at 234.95 87.5796 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -613,7 +603,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "7dc7cad2-8fb1-4a7c-b3d6-dcb9a49c1337")
-		(property "Sheetname" "io-ports"
+		(property "Sheetname" "IO port"
 			(at 189.23 86.9184 0)
 			(show_name no)
 			(do_not_autoplace no)
