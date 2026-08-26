@@ -517,6 +517,14 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "name": "5V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": "",
+        "wire_width": 10
       }
     ],
     "meta": {
@@ -655,7 +663,7 @@
         "uuid": "b913df20-761e-41f4-8775-5de3673cbc2b"
       }
     ],
-    "used_designators": "J1,#PWR24-31,Y1,IC1-4,U4-9",
+    "used_designators": "X1,C13-16,J1-3,#PWR24-49,Y1,IC1-4,U4-12",
     "variants": []
   },
   "sheets": [

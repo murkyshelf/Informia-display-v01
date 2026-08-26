@@ -1,0 +1,158 @@
+{
+  "generated": "2026-08-11T00:59:54.399667745+05:30",
+  "library_root": "/home/murky/projects/fpga_v2/lib/murky",
+  "layout": {
+    "symbols": "symbols",
+    "footprints": "footprints.pretty",
+    "models": "3dmodels",
+    "merged_symbol_lib": "murky-informis.kicad_sym",
+    "archive": "archive",
+    "per_part_footprint_dirs": true
+  },
+  "parts": [
+    {
+      "name": "FUSB302MPX",
+      "source": "LCSC C442699",
+      "imported_at": "2026-08-02T18:50:42.030607294+05:30",
+      "symbol_file": "symbols/FUSB302MPX.kicad_sym",
+      "symbol_names": [
+        "FUSB302MPX"
+      ],
+      "footprints": [
+        "footprints.pretty/FUSB302MPX.pretty/MLP-14_L2.5-W2.5-P0.50-BL-EP.kicad_mod",
+        "footprints.pretty/MLP-14_L2.5-W2.5-P0.50-BL-EP.kicad_mod"
+      ],
+      "models": [
+        "3dmodels/FUSB302MPX.stp"
+      ]
+    },
+    {
+      "name": "HD3SS3212IRKSR",
+      "source": "LCSC C544517",
+      "imported_at": "2026-08-02T19:02:21.201312446+05:30",
+      "symbol_file": "symbols/HD3SS3212IRKSR.kicad_sym",
+      "symbol_names": [
+        "HD3SS3212IRKSR"
+      ],
+      "footprints": [
+        "footprints.pretty/HD3SS3212IRKSR.pretty/DHVQFN-20_L4.5-W2.5-P0.50-BL-EP.kicad_mod",
+        "footprints.pretty/DHVQFN-20_L4.5-W2.5-P0.50-BL-EP.kicad_mod"
+      ],
+      "models": [
+        "3dmodels/HD3SS3212IRKSR.stp"
+      ]
+    },
+    {
+      "name": "LFE5UM5G-85F-8BG381C",
+      "source": "LIB_LFE5UM5G-85F-8BG381C.zip",
+      "imported_at": "2026-08-09T03:25:16.215553191+05:30",
+      "symbol_file": "symbols/LFE5UM5G-85F-8BG381C.kicad_sym",
+      "symbol_names": [
+        "LFE5UM5G-85F-8BG381C"
+      ],
+      "footprints": [
+        "footprints.pretty/LFE5UM5G-85F-8BG381C.pretty/BGA381C80P20X20_1700X1700X176.kicad_mod",
+        "footprints.pretty/BGA381C80P20X20_1700X1700X176.kicad_mod",
+        "footprints.pretty/LFE5UM5G-85F-8BG381C.pretty/BGA-381_L17.0-W17.0-P0.80-TL_LFE5UM-45F-7BG381I.kicad_mod"
+      ],
+      "models": [
+        "3dmodels/LFE5UM5G-85F-8BG381C.stp"
+      ]
+    },
+    {
+      "name": "LFE5UM5G-85F-8MG285C",
+      "source": "found on disk",
+      "imported_at": "2026-07-28T00:11:34.032780058+05:30",
+      "symbol_file": "symbols/LFE5UM5G-85F-8MG285C.kicad_sym",
+      "symbol_names": [
+        "LFE5UM5G-85F-8MG285C"
+      ],
+      "footprints": [
+        "footprints.pretty/LFE5UM5G-85F-8MG285C.pretty/BGA285C50P18X18_1000X1000X130.kicad_mod",
+        "footprints.pretty/BGA285C50P18X18_1000X1000X130.kicad_mod"
+      ],
+      "models": [
+        "3dmodels/LFE5UM5G-85F-8MG285C.stp"
+      ]
+    },
+    {
+      "name": "MT41K128M16JT-125_K",
+      "source": "found on disk",
+      "imported_at": "2026-07-28T00:11:34.032780058+05:30",
+      "symbol_file": "symbols/MT41K128M16JT-125_K.kicad_sym",
+      "symbol_names": [
+        "MT41K128M16JT-125_K"
+      ],
+      "footprints": [
+        "footprints.pretty/MT41K128M16JT-125_K.pretty/BGA96C80P9X16_800X1400X120.kicad_mod",
+        "footprints.pretty/BGA96C80P9X16_800X1400X120.kicad_mod"
+      ],
+      "models": [
+        "3dmodels/MT41K128M16JT-125_K.stp"
+      ]
+    },
+    {
+      "name": "SIT9120AC-2C2-33E125.000000",
+      "source": "LCSC C5362957",
+      "imported_at": "2026-08-11T00:59:54.399639675+05:30",
+      "symbol_file": "symbols/SIT9120AC-2C2-33E125.000000.kicad_sym",
+      "symbol_names": [
+        "SIT9120AC-2C2-33E125.000000"
+      ],
+      "footprints": [
+        "footprints.pretty/SIT9120AC-2C2-33E125.000000.pretty/OSC-SMD_6P-L5.0-W3.2-BL.kicad_mod",
+        "footprints.pretty/OSC-SMD_6P-L5.0-W3.2-BL.kicad_mod"
+      ],
+      "models": [
+        "3dmodels/SIT9120AC-2C2-33E125.000000.stp"
+      ]
+    },
+    {
+      "name": "STM32H743ZIT6",
+      "source": "found on disk",
+      "imported_at": "2026-07-28T00:11:34.032780058+05:30",
+      "symbol_file": "symbols/STM32H743ZIT6.kicad_sym",
+      "symbol_names": [
+        "STM32H743ZIT6"
+      ],
+      "footprints": [
+        "footprints.pretty/QFP50P2200X2200X160-144N.kicad_mod"
+      ],
+      "models": [
+        "3dmodels/STM32H743ZIT6.stp"
+      ]
+    },
+    {
+      "name": "TPD12S016PWR",
+      "source": "LCSC C201665",
+      "imported_at": "2026-08-11T00:46:52.165621228+05:30",
+      "symbol_file": "symbols/TPD12S016PWR.kicad_sym",
+      "symbol_names": [
+        "TPD12S016PWR"
+      ],
+      "footprints": [
+        "footprints.pretty/TPD12S016PWR.pretty/TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL.kicad_mod",
+        "footprints.pretty/TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL.kicad_mod"
+      ],
+      "models": [
+        "3dmodels/TPD12S016PWR.stp"
+      ]
+    },
+    {
+      "name": "USB3343-CP-TR",
+      "source": "LCSC C112967",
+      "imported_at": "2026-08-03T23:48:32.662441172+05:30",
+      "symbol_file": "symbols/USB3343-CP-TR.kicad_sym",
+      "symbol_names": [
+        "USB3343-CP-TR"
+      ],
+      "footprints": [
+        "footprints.pretty/USB3343-CP-TR.pretty/QFN-24_L4.0-W4.0-P0.50-BL-EP2.6.kicad_mod",
+        "footprints.pretty/QFN-24_L4.0-W4.0-P0.50-BL-EP2.6.kicad_mod"
+      ],
+      "models": [
+        "3dmodels/USB3343-CP-TR.stp"
+      ]
+    }
+  ]
+}

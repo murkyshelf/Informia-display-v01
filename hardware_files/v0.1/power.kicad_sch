@@ -12935,6 +12935,18 @@
 		)
 		(uuid "32f95465-22fb-4fa9-9ebf-3d2d5326a92a")
 	)
+	(rectangle
+		(start 178.435 1.27)
+		(end 227.965 32.385)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "5d23a1fc-6cc8-4e0f-88b8-b56b56010447")
+	)
 	(bezier
 		(pts
 			(xy 272.415 22.987) (xy 273.05 23.622) (xy 272.415 24.257) (xy 273.05 24.892)
@@ -13052,6 +13064,19 @@
 		)
 		(uuid "23d872c5-41c0-4060-bf2d-5d9cbbcbce81")
 	)
+	(text "TODO : change the R values "
+		(exclude_from_sim no)
+		(at 208.788 60.452 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "2746139d-a33b-47b4-8cf4-4291877b0e8f")
+	)
 	(text "BUCK\n"
 		(exclude_from_sim no)
 		(at 163.83 42.164 0)
@@ -13061,6 +13086,32 @@
 			)
 		)
 		(uuid "3efcde73-b98c-4708-bbbd-d270e814653d")
+	)
+	(text "TODO : change the R values "
+		(exclude_from_sim no)
+		(at 206.248 91.44 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "52c1236c-8853-4743-886a-bd443919e0a0")
+	)
+	(text "TODO : --\n"
+		(exclude_from_sim no)
+		(at 278.638 -6.096 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "539cf3f4-932f-4dfb-ac5e-897d302af581")
 	)
 	(text "+3v3\n"
 		(exclude_from_sim no)
@@ -13072,6 +13123,58 @@
 		)
 		(uuid "58b44f3b-e69e-4993-a1c9-08ec2d40c07f")
 	)
+	(text "TODO : connect the power\n to the ecp5 seders\n\n\n"
+		(exclude_from_sim no)
+		(at 117.348 123.698 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "660d49b4-c8f1-405f-aa2b-69371e60efa5")
+	)
+	(text "TODO : connect the \n   status leds \n    to the ic\n\n"
+		(exclude_from_sim no)
+		(at 202.184 19.05 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "6a8e15c0-5745-474e-be8c-10049f31bbb9")
+	)
+	(text "TODO : change the R values "
+		(exclude_from_sim no)
+		(at 208.28 123.19 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "75c64557-c6c2-429e-8bbe-c15c155b0075")
+	)
+	(text "TODO : connect the power\n to the ddr3 dram\n\n"
+		(exclude_from_sim no)
+		(at 117.856 151.384 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "b8dc67c3-2792-47de-9563-2c4005f35c7a")
+	)
 	(text "+2v5\n"
 		(exclude_from_sim no)
 		(at 253.492 29.972 0)
@@ -13081,6 +13184,16 @@
 			)
 		)
 		(uuid "bda28827-d84a-4018-80fa-4a66067b368b")
+	)
+	(text "status LED"
+		(exclude_from_sim no)
+		(at 184.785 3.683 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fd16c871-ef2b-45e3-9937-79eb6ecc7ef4")
 	)
 	(junction
 		(at 137.16 49.53)

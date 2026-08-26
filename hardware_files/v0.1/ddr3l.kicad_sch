@@ -5,7 +5,7 @@
 	(uuid "54c54fe9-60d0-44c2-b1a9-5076e2961b29")
 	(paper "A4")
 	(lib_symbols
-		(symbol "MT41K128M16JT-125_K_1"
+		(symbol "murky-lib:MT41K128M16JT-125_K"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -128,7 +128,7 @@
 					(justify left top)
 				)
 			)
-			(symbol "MT41K128M16JT-125_K_1_0_1"
+			(symbol "MT41K128M16JT-125_K_0_1"
 				(polyline
 					(pts
 						(xy 13.97 1.016) (xy 13.97 -48.26)
@@ -322,7 +322,7 @@
 					)
 				)
 			)
-			(symbol "MT41K128M16JT-125_K_1_1_1"
+			(symbol "MT41K128M16JT-125_K_1_1"
 				(rectangle
 					(start 5.08 3.81)
 					(end 35.56 -151.13)
@@ -2165,9 +2165,549 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:GND"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(rectangle
+		(start 231.14 16.51)
+		(end 280.67 47.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "7e042a28-3029-4450-b1f4-3b2ea0cff8dc")
+	)
+	(rectangle
+		(start 31.115 40.64)
+		(end 72.39 78.74)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "ae608b9e-0aa0-4076-85a1-ca902e04b8fe")
+	)
+	(text "status LED"
+		(exclude_from_sim no)
+		(at 237.49 18.923 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3c0f431a-8b53-48e9-b6a5-00d933a4ce40")
+	)
+	(text "TODO : --\n"
+		(exclude_from_sim no)
+		(at 254.762 -4.064 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "45b80575-76bb-48c9-96be-67e818e43537")
+	)
+	(text "TODO : make a circuit"
+		(exclude_from_sim no)
+		(at 114.808 96.774 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "46d24d1a-642f-440f-9a0f-2d4937393cc3")
+	)
+	(text "TODO : make a circuit"
+		(exclude_from_sim no)
+		(at 51.308 60.198 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "6ab27cfb-b7b0-4b4c-84a0-3e0bda555d92")
+	)
+	(text "fpga ddr3 block\n"
+		(exclude_from_sim no)
+		(at 50.292 51.562 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8edd05e0-06a5-49f6-82f8-05c476084610")
+	)
+	(text "TODO : connect the \n   status leds \n    to the ic\n\n"
+		(exclude_from_sim no)
+		(at 256.54 34.544 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "93d336c0-5aaa-41e8-9a7b-2f3d3daf86ae")
+	)
+	(junction
+		(at 93.98 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "07130fa6-e52a-444b-b1a8-9e2c2f5c0f6c")
+	)
+	(junction
+		(at 93.98 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "120fa119-5318-4bba-939e-ec973e7f72d3")
+	)
+	(junction
+		(at 93.98 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "144c8df3-1cc6-4ded-9fb1-3c9f4dc34dd8")
+	)
+	(junction
+		(at 93.98 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2cf1cd26-fdf3-47de-98ce-056078bf5e95")
+	)
+	(junction
+		(at 93.98 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f505238-88fa-4e3a-adc1-d175df886069")
+	)
+	(junction
+		(at 93.98 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b5e908e-3d4b-4b6a-890c-3296e59cd05a")
+	)
+	(junction
+		(at 93.98 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f0960af-91ec-421d-b475-1d62e59d9cd7")
+	)
+	(junction
+		(at 93.98 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53866511-c074-4c43-a87c-058aefc94963")
+	)
+	(junction
+		(at 93.98 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ac84831-68dc-49a0-8ab1-b9abfae5cfd5")
+	)
+	(junction
+		(at 93.98 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69aaced5-8040-4fb5-9257-11e782d5ffea")
+	)
+	(junction
+		(at 93.98 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6d7dde3b-109a-42e8-9cac-9bb2744cc51c")
+	)
+	(junction
+		(at 93.98 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7b8d54d1-9534-4c0a-8355-44caf380bcdf")
+	)
+	(junction
+		(at 93.98 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8eae58e7-856e-4e5c-9e08-0421a6eaf5bb")
+	)
+	(junction
+		(at 93.98 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98f80834-ab19-420d-a25e-94197ce548bf")
+	)
+	(junction
+		(at 93.98 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9a9ffc5a-e749-4c88-84a0-861cf9710e51")
+	)
+	(junction
+		(at 93.98 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac70864d-4c96-44a0-8051-cad31db348b9")
+	)
+	(junction
+		(at 93.98 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc09d820-e7c5-45b1-b799-895381ba472f")
+	)
+	(junction
+		(at 93.98 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "df63dce9-8feb-487a-bdfe-1e58808488ed")
+	)
+	(junction
+		(at 93.98 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1ff6555-8c41-4b8c-ae8f-27f4173fa150")
+	)
+	(junction
+		(at 93.98 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f49036c5-7cd4-4130-88ce-9a4d6808e899")
+	)
+	(wire
+		(pts
+			(xy 93.98 128.27) (xy 93.98 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02a1050d-79dd-4bc0-a72a-e80a64b3afbd")
+	)
+	(wire
+		(pts
+			(xy 93.98 125.73) (xy 93.98 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12fa03a6-1164-4055-ab98-7bb56fc2abf1")
+	)
+	(wire
+		(pts
+			(xy 93.98 91.44) (xy 93.98 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13945e06-814f-420a-9d4f-7e4dbb8f0b76")
+	)
+	(wire
+		(pts
+			(xy 93.98 138.43) (xy 93.98 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "272ffb21-5ab6-483a-a314-75c0e8509f39")
+	)
+	(wire
+		(pts
+			(xy 93.98 109.22) (xy 93.98 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c6b45e8-861c-40d3-87ee-d4ba94a08419")
+	)
+	(wire
+		(pts
+			(xy 93.98 133.35) (xy 93.98 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f76462b-c5c6-4e03-9a37-2b55935df7ba")
+	)
+	(wire
+		(pts
+			(xy 93.98 143.51) (xy 90.17 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41404344-4f3c-421b-a06c-975a3ff598bb")
+	)
+	(wire
+		(pts
+			(xy 93.98 88.9) (xy 93.98 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42d203bc-0ec9-4dc5-be15-97eceaea5ec8")
+	)
+	(wire
+		(pts
+			(xy 93.98 104.14) (xy 93.98 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4965f806-9a4b-4cd2-a0a6-7228660ccc8c")
+	)
+	(wire
+		(pts
+			(xy 93.98 111.76) (xy 93.98 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e40f39a-60d5-4bf1-b91c-578b24d21664")
+	)
+	(wire
+		(pts
+			(xy 93.98 114.3) (xy 93.98 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76b19338-95ef-4e7a-acde-411d05b8cea5")
+	)
+	(wire
+		(pts
+			(xy 93.98 99.06) (xy 93.98 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79976282-c64d-4e4e-8f82-136f0bc1f778")
+	)
+	(wire
+		(pts
+			(xy 93.98 116.84) (xy 93.98 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83451464-b8fb-4613-9fbf-ef5b269fd1b5")
+	)
+	(wire
+		(pts
+			(xy 93.98 106.68) (xy 93.98 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c9570b2-726b-4c85-bad7-e9f0d149e5aa")
+	)
+	(wire
+		(pts
+			(xy 93.98 140.97) (xy 93.98 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9035c0f1-406b-420d-8ba5-85fa5910f742")
+	)
+	(wire
+		(pts
+			(xy 93.98 123.19) (xy 93.98 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a178f863-4037-42a7-883e-71197260bebf")
+	)
+	(wire
+		(pts
+			(xy 93.98 135.89) (xy 93.98 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4b0aca4-7a98-4180-839f-5ebc77c92d15")
+	)
+	(wire
+		(pts
+			(xy 93.98 130.81) (xy 93.98 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6e4fdf2-b737-470f-9d17-f90ec58c93cf")
+	)
+	(wire
+		(pts
+			(xy 93.98 101.6) (xy 93.98 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3c6e0c1-9790-4416-99f4-40a1be56a4b8")
+	)
+	(wire
+		(pts
+			(xy 93.98 96.52) (xy 93.98 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db34d098-35fb-4430-b15a-5586a7fc69e3")
+	)
+	(wire
+		(pts
+			(xy 93.98 93.98) (xy 93.98 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff546893-1935-47a2-b2dc-d1b576dbc273")
 	)
 	(symbol
-		(lib_name "MT41K128M16JT-125_K_1")
 		(lib_id "murky-lib:MT41K128M16JT-125_K")
 		(at 93.98 35.56 0)
 		(unit 1)
@@ -2586,6 +3126,84 @@
 			(project "v0.1"
 				(path "/b913df20-761e-41f4-8775-5de3673cbc2b/20cdcbe8-161f-4598-94a9-5dba2f70f220"
 					(reference "IC4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 90.17 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a96f648d-d067-4d12-bc9d-3f79141ac010")
+		(property "Reference" "#PWR049"
+			(at 90.17 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 90.17 148.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 90.17 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 90.17 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b3e4f65f-1990-4d61-8311-b9be9198787b")
+		)
+		(instances
+			(project "v0.1"
+				(path "/b913df20-761e-41f4-8775-5de3673cbc2b/20cdcbe8-161f-4598-94a9-5dba2f70f220"
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
