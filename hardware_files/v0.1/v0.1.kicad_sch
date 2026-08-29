@@ -288,6 +288,19 @@
 		)
 		(uuid "a2feff9f-ad13-458b-8dd8-627c30dee58b")
 	)
+	(text "TODO : make a symbol \nfor the stm32"
+		(exclude_from_sim no)
+		(at 170.18 147.066 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "acbba017-fe45-4893-b903-e119835d095e")
+	)
 	(text "MEMORY\n"
 		(exclude_from_sim no)
 		(at 173.355 76.835 0)
@@ -327,6 +340,16 @@
 			)
 		)
 		(uuid "ef8e4325-3831-48c5-9a4a-fd35472ea954")
+	)
+	(text "jtag and spi \nand other connectors "
+		(exclude_from_sim no)
+		(at 122.174 51.308 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ff96366e-3610-41a9-b55b-dea64e96b774")
 	)
 	(polyline
 		(pts
@@ -419,8 +442,8 @@
 		(uuid "e371bdc0-973d-491e-abdf-549ce203db13")
 	)
 	(sheet
-		(at 257.81 25.4)
-		(size 43.815 132.08)
+		(at 148.59 29.21)
+		(size 43.815 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -435,7 +458,7 @@
 		)
 		(uuid "006e1989-9ae0-46d5-bbd1-defcb75a8930")
 		(property "Sheetname" "STM32"
-			(at 257.81 24.6884 0)
+			(at 148.59 28.4984 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -446,7 +469,7 @@
 			)
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
-			(at 257.81 158.0646 0)
+			(at 148.59 43.7646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -660,8 +683,8 @@
 		)
 	)
 	(sheet
-		(at -50.165 31.115)
-		(size 43.815 132.08)
+		(at 54.61 29.21)
+		(size 43.815 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -676,7 +699,7 @@
 		)
 		(uuid "7364dcb2-48e5-441b-9856-32e6d27554a3")
 		(property "Sheetname" "FPGA-ECP5--5G"
-			(at -50.165 30.4034 0)
+			(at 54.61 28.4984 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -687,7 +710,7 @@
 			)
 		)
 		(property "Sheetfile" "ecp5-5g.kicad_sch"
-			(at -50.165 163.7796 0)
+			(at 54.61 43.7646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

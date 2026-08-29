@@ -77,8 +77,6 @@
       false,
       false,
       false,
-      false,
-      false,
       false
     ],
     "col_order": [
@@ -91,9 +89,7 @@
       6,
       7,
       8,
-      9,
-      10,
-      11
+      9
     ],
     "col_widths": [],
     "custom_group_rules": [],
@@ -116,16 +112,16 @@
   "schematic": {
     "hierarchy_collapsed": [],
     "selection_filter": {
-      "graphics": false,
-      "images": false,
-      "labels": false,
+      "graphics": true,
+      "images": true,
+      "labels": true,
       "lockedItems": false,
-      "otherItems": false,
-      "pins": false,
-      "ruleAreas": false,
-      "symbols": false,
+      "otherItems": true,
+      "pins": true,
+      "ruleAreas": true,
+      "symbols": true,
       "text": true,
-      "wires": false
+      "wires": true
     }
   }
 }
