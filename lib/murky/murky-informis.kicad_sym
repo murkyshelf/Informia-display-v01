@@ -7423,7 +7423,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -19.05 0)
+				(at 0 -46.99 0)
 				(length 5.08)
 				(name "PB15A/HOLDN/DI/BUSY/CSSPIN/CEN"
 					(effects
@@ -7768,8 +7768,8 @@
 		(symbol "LFE5UM5G-85F-8BG381C_9_1"
 			(unit_name "JTAG")
 			(rectangle
-				(start 11.43 2.54)
-				(end 46.99 -10.16)
+				(start 10.795 2.54)
+				(end 33.02 -10.16)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -7779,7 +7779,7 @@
 				)
 			)
 			(pin passive line
-				(at 52.07 0 180)
+				(at 38.1 0 180)
 				(length 5.08)
 				(name "TDI"
 					(effects
@@ -7797,7 +7797,7 @@
 				)
 			)
 			(pin passive line
-				(at 52.07 -2.54 180)
+				(at 38.1 -2.54 180)
 				(length 5.08)
 				(name "TCK"
 					(effects
@@ -7815,7 +7815,7 @@
 				)
 			)
 			(pin passive line
-				(at 52.07 -5.08 180)
+				(at 38.1 -5.08 180)
 				(length 5.08)
 				(name "TMS"
 					(effects
@@ -7833,7 +7833,7 @@
 				)
 			)
 			(pin passive line
-				(at 52.07 -7.62 180)
+				(at 38.1 -7.62 180)
 				(length 5.08)
 				(name "TDO"
 					(effects
@@ -19484,6 +19484,18 @@
 					(type none)
 				)
 			)
+			(polyline
+				(pts
+					(xy 29.21 -36.195) (xy 29.21 -42.545)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(text "Clock"
 				(at 12.7 -60.325 900)
 				(effects
@@ -19492,7 +19504,7 @@
 					)
 				)
 			)
-			(text "Reserved"
+			(text "not connected\n"
 				(at 13.208 -97.536 900)
 				(effects
 					(font
@@ -19534,6 +19546,14 @@
 			)
 			(text "Data Interface"
 				(at 26.416 -80.518 900)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(text "BANK"
+				(at 28.194 -39.37 900)
 				(effects
 					(font
 						(size 1.27 1.27)

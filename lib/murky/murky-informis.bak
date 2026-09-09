@@ -7423,7 +7423,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -19.05 0)
+				(at 0 -46.99 0)
 				(length 5.08)
 				(name "PB15A/HOLDN/DI/BUSY/CSSPIN/CEN"
 					(effects
@@ -7768,8 +7768,8 @@
 		(symbol "LFE5UM5G-85F-8BG381C_9_1"
 			(unit_name "JTAG")
 			(rectangle
-				(start 11.43 2.54)
-				(end 46.99 -10.16)
+				(start 10.795 2.54)
+				(end 33.02 -10.16)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -7779,7 +7779,7 @@
 				)
 			)
 			(pin passive line
-				(at 52.07 0 180)
+				(at 38.1 0 180)
 				(length 5.08)
 				(name "TDI"
 					(effects
@@ -7797,7 +7797,7 @@
 				)
 			)
 			(pin passive line
-				(at 52.07 -2.54 180)
+				(at 38.1 -2.54 180)
 				(length 5.08)
 				(name "TCK"
 					(effects
@@ -7815,7 +7815,7 @@
 				)
 			)
 			(pin passive line
-				(at 52.07 -5.08 180)
+				(at 38.1 -5.08 180)
 				(length 5.08)
 				(name "TMS"
 					(effects
@@ -7833,7 +7833,7 @@
 				)
 			)
 			(pin passive line
-				(at 52.07 -7.62 180)
+				(at 38.1 -7.62 180)
 				(length 5.08)
 				(name "TDO"
 					(effects
@@ -22372,7 +22372,7 @@
 			(pin passive line
 				(at 220.98 -44.45 0)
 				(length 5.08)
-				(name "PA11"
+				(name "PA11/D-"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -22390,7 +22390,7 @@
 			(pin passive line
 				(at 220.98 -46.99 0)
 				(length 5.08)
-				(name "PA12"
+				(name "PA12/D+"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -22594,9 +22594,63 @@
 				)
 			)
 			(pin passive line
-				(at -60.96 -81.28 0)
+				(at -67.31 -95.25 0)
 				(length 5.08)
-				(name "PB3"
+				(name "PA13/JTMS-SWDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "105"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -67.31 -97.79 0)
+				(length 5.08)
+				(name "PA14/JTCK-SWCLK"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "109"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -67.31 -100.33 0)
+				(length 5.08)
+				(name "PA15/JTDI"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "110"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -67.31 -102.87 0)
+				(length 5.08)
+				(name "PB3/JTDO/TRACESWO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -22604,6 +22658,24 @@
 					)
 				)
 				(number "133"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -67.31 -105.41 0)
+				(length 5.08)
+				(name "PB4/NJTRST"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "134"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -22836,9 +22908,9 @@
 				)
 			)
 			(pin passive line
-				(at 148.59 -60.96 180)
+				(at 143.51 -72.39 180)
 				(length 5.08)
-				(name "PA9"
+				(name "PA9/VBUS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -22854,9 +22926,9 @@
 				)
 			)
 			(pin passive line
-				(at 148.59 -63.5 180)
+				(at 143.51 -74.93 180)
 				(length 5.08)
-				(name "PA10"
+				(name "PA10/ID"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -22864,60 +22936,6 @@
 					)
 				)
 				(number "102"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 148.59 -72.39 180)
-				(length 5.08)
-				(name "PA13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "105"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 148.59 -69.85 180)
-				(length 5.08)
-				(name "PA14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "109"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 148.59 -74.93 180)
-				(length 5.08)
-				(name "PA15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "110"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -22952,7 +22970,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -48.26 180)
+				(at 25.4 -11.43 180)
 				(length 5.08)
 				(name "PB0"
 					(effects
@@ -22970,7 +22988,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -45.72 180)
+				(at 25.4 -13.97 180)
 				(length 5.08)
 				(name "PB1"
 					(effects
@@ -22988,7 +23006,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -43.18 180)
+				(at 25.4 -16.51 180)
 				(length 5.08)
 				(name "PB2"
 					(effects
@@ -23006,7 +23024,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -25.4 180)
+				(at 25.4 -34.29 180)
 				(length 5.08)
 				(name "PB10"
 					(effects
@@ -23024,7 +23042,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -22.86 180)
+				(at 25.4 -36.83 180)
 				(length 5.08)
 				(name "PB11"
 					(effects
@@ -23042,7 +23060,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -20.32 180)
+				(at 25.4 -39.37 180)
 				(length 5.08)
 				(name "PB12"
 					(effects
@@ -23060,7 +23078,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -17.78 180)
+				(at 25.4 -41.91 180)
 				(length 5.08)
 				(name "PB13"
 					(effects
@@ -23078,7 +23096,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -15.24 180)
+				(at 25.4 -44.45 180)
 				(length 5.08)
 				(name "PB14"
 					(effects
@@ -23096,7 +23114,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -12.7 180)
+				(at 25.4 -46.99 180)
 				(length 5.08)
 				(name "PB15"
 					(effects
@@ -23114,25 +23132,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -40.64 180)
-				(length 5.08)
-				(name "PB4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "134"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 25.4 -38.1 180)
+				(at 25.4 -21.59 180)
 				(length 5.08)
 				(name "PB5"
 					(effects
@@ -23150,7 +23150,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -35.56 180)
+				(at 25.4 -24.13 180)
 				(length 5.08)
 				(name "PB6"
 					(effects
@@ -23168,7 +23168,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -33.02 180)
+				(at 25.4 -26.67 180)
 				(length 5.08)
 				(name "PB7"
 					(effects
@@ -23186,7 +23186,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -30.48 180)
+				(at 25.4 -29.21 180)
 				(length 5.08)
 				(name "PB8"
 					(effects
@@ -23204,7 +23204,7 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -27.94 180)
+				(at 25.4 -31.75 180)
 				(length 5.08)
 				(name "PB9"
 					(effects
